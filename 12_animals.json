@@ -1,162 +1,204 @@
 [
   {
-    "image": "https://1.bp.blogspot.com/-21bS7KXKdek/YVwDGK8irjI/AAAAAAABfco/yjSmntUEhxQDtDeieZIs2HajbMtpDsLkQCNcBGAsYHQ/s708/food_tamago_gohan4.png",
-    "en": "rice",
+    "image": "https://4.bp.blogspot.com/--ysNcYpsGXU/V9vB__9_KwI/AAAAAAAA96s/VWdgwqiOfzcahqy5VK_FisOqFHwo2os4gCLcB/s800/animal_bear_character.png",
+    "en": "bear",
     "ja": {
-      "kanji": "ごはん",
-      "hiragana": "ごはん"
+      "kanji": "熊",
+      "hiragana": "くま"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-3khx7urzRIw/UgSMGL4tYyI/AAAAAAAAW74/NIeCZIlDGOE/s800/food_onigiri.png",
-    "en": "rice ball",
+    "image": "https://4.bp.blogspot.com/-zbIelW8s9qQ/Wj2--nqMRiI/AAAAAAABI3c/Uia5jY4JeLkYvd4ec11RaTbhJwwA3vLtQCLcBGAs/s800/animal_shirokuma_hokkyokuguma.png",
+    "en": "polar bear",
     "ja": {
-      "kanji": "おにぎり",
-      "hiragana": "おにぎり"
+      "kanji": "ホッキョクグマ",
+      "hiragana": "ほっきょくぐま"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-LHEZgJ6tpeA/UgSL_9y4KrI/AAAAAAAAW5s/DNRPJ4kSvpI/s800/food_curryruce.png",
-    "en": "curry and rice",
+    "image": "https://4.bp.blogspot.com/-36_reOy-K4s/UnIEA2ONJwI/AAAAAAAAZ8Q/m8lHcJIGUVM/s800/animal_zou.png",
+    "en": "elephant",
     "ja": {
-      "kanji": "カレーライス",
-      "hiragana": "かれーらいす"
+      "kanji": "象",
+      "hiragana": "ぞう"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-RHXo5el1fnw/UUhH_OqS0tI/AAAAAAAAO64/DMTjZX3TdG8/s1600/wasyoku_yakizakana.png",
+    "image": "https://2.bp.blogspot.com/-oIWwEwe664Q/Vn-CoheC78I/AAAAAAAA2ME/aQ7RU4zPNbE/s800/eto_remake_tora.png",
     "en": [
-      "grilled fish"
+      "tiger"
     ],
     "ja": {
-      "kanji": "焼き魚",
-      "hiragana": "やきざかな"
+      "kanji": "虎",
+      "hiragana": "とら"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-R9i2_P0Jt_s/XTPn7ZzMmKI/AAAAAAABTug/HoUKiKnTDRQmTGnWqxPUHxLR_m3WAyfRACLcBGAs/s800/bread_syokupan_usui.png",
-    "en": "bread",
+    "image": "https://1.bp.blogspot.com/-xihtSBkTelA/YMVaXFmp71I/AAAAAAABd4E/XnKUTf9qc9EsC68ovza2txUtI19N19NNQCNcBGAsYHQ/s936/animal_lion.png",
+    "en": "lion",
     "ja": {
-      "kanji": "パン",
-      "hiragana": "ぱん"
+      "kanji": "ライオン",
+      "hiragana": "らいおん"
     }
   },
   {
-    "image": "https://4.bp.blogspot.com/-HzshV4HPiyY/UbVu-3tfGqI/AAAAAAAAUlA/mkU3QQNPZ8U/s800/food_sandwitch.png",
-    "en": "sandwich",
+    "image": "https://4.bp.blogspot.com/-zrwJd18ni_M/UaVU_qRokmI/AAAAAAAAT9w/apfFHGRZSfI/s800/animal_shimauma.png",
+    "en": "zebra",
     "ja": {
-      "kanji": "サンドイッチ",
-      "hiragana": "さんどいっち"
+      "kanji": "シマウマ",
+      "hiragana": "しまうま"
     }
   },
   {
-    "image": "https://4.bp.blogspot.com/-O3BfRklRuvY/UgSMMQLBDQI/AAAAAAAAW-Q/ierOPDBWb7U/s800/sweets_pancake.png",
-    "en": "pancakes",
+    "image": "https://3.bp.blogspot.com/-Zj8Jc4pEVXI/XBC4OkmH8kI/AAAAAAABQ1A/uwmZ7Dzup6QNIKAiO8eHUVOjiIRtnHWtgCLcBGAs/s800/animal_chara_gorilla_girl.png",
+    "en": "gorilla",
     "ja": {
-      "kanji": "パンケーキ",
-      "hiragana": "ぱんけーき"
+      "kanji": "ゴリラ",
+      "hiragana": "ごりら"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-Xx3M4NHN-50/X9lJVUVciOI/AAAAAAABc3w/FLnRJOST7eknkix8ps8PKSwtUgsvdn1DQCNcBGAsYHQ/s501/food_pizza_cut_salami.png",
-    "en": "pizza",
+    "image": "https://1.bp.blogspot.com/-R0N3bIJb348/WB7ND0lLHgI/AAAAAAAA_ZQ/oC_IR2_2RzUCe-ak3x8sRDgnEHp3bnZZwCLcB/s800/music_fue_saru.png",
+    "en": "monkey",
     "ja": {
-      "kanji": "ピザ",
-      "hiragana": "ぴざ"
+      "kanji": "猿",
+      "hiragana": "さる"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-63vQtYUKJBY/UgSMCmG66LI/AAAAAAAAW6w/-VMth7DVjcY/s800/food_hamburger.png",
-    "en": "hamburger",
+    "image": "https://1.bp.blogspot.com/-2MR7FHzJskw/UnslOIi0O0I/AAAAAAAAaQo/zKKqefuVF0I/s800/eto_uma.png",
+    "en": "horse",
     "ja": {
-      "kanji": "ハンバーガー",
-      "hiragana": "はんばーがー"
+      "kanji": "馬",
+      "hiragana": "うま"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-mjs3KRWzayY/UgSMCxWO2NI/AAAAAAAAW6o/Ody861WWhYM/s800/food_hotdog.png",
-    "en": "hot dog",
+    "image": "https://2.bp.blogspot.com/-KQtRJlxP-BM/UaVU-6cpC6I/AAAAAAAAT9k/FkNGGXCudys/s800/animal_rakuyda.png",
+    "en": "camel",
     "ja": {
-      "kanji": "ホットドッグ",
-      "hiragana": "ほっとどっぐ"
+      "kanji": "ラクダ",
+      "hiragana": "らくだ"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-ioMDbzmYT7I/UgSMBbpopaI/AAAAAAAAW6M/h__92h9Wv5c/s800/food_frenchfry.png",
-    "en": "French fries",
+    "image": "https://4.bp.blogspot.com/-OvqTTiAK1sc/Vn-CpKKjrsI/AAAAAAAA2MY/Y_IAu9aeGMc/s800/eto_remake_ushi.png",
+    "en": "cow",
     "ja": {
-      "kanji": "フライドポテト",
-      "hiragana": "ふらいどぽてと"
+      "kanji": "牛",
+      "hiragana": "うし"
     }
   },
   {
-    "image": "https://4.bp.blogspot.com/-siUZ4tDzooM/UgsrknPG5mI/AAAAAAAAXFk/LLLLwlXG4r0/s800/food_fried_chicken.png",
-    "en": "fried chicken",
+    "image": "https://3.bp.blogspot.com/-pNz44UfwDxk/Vn-CnuX8adI/AAAAAAAA2L8/f1C7p7wm8k0/s800/eto_remake_hitsuji.png",
+    "en": "sheep",
     "ja": {
-      "kanji": "フライドチキン",
-      "hiragana": "ふらいどちきん"
+      "kanji": "羊",
+      "hiragana": "ひつじ"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-2ZQZEFW-xBI/VXOTn73hJeI/AAAAAAAAuBw/LhhARSxcvhI/s800/food_sausage.png",
-    "en": "sausage",
+    "image": "https://1.bp.blogspot.com/-41u0_S90Ppg/U8XkAkPE-gI/AAAAAAAAipE/hIYV_yYIwKA/s800/animal_pig_buta.png",
+    "en": "pig",
     "ja": {
-      "kanji": "ソーセージ",
-      "hiragana": "そーせーじ"
+      "kanji": "豚",
+      "hiragana": "ぶた"
     }
   },
   {
-    "image": "https://4.bp.blogspot.com/-3eNDhzaxDGY/UgSMIBj2yZI/AAAAAAAAW8o/XzYwXc9ttAY/s800/food_stake.png",
-    "en": "steak",
+    "image": "https://3.bp.blogspot.com/-8L0QlGW0GL4/UnyFtLUmfBI/AAAAAAAAaSo/FoJIaQ-4wLI/s800/animal_panda.png",
+    "en": "panda",
     "ja": {
-      "kanji": "ステーキ",
-      "hiragana": "すてーき"
+      "kanji": "パンダ",
+      "hiragana": "ぱんだ"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-i9rqYznm5SA/UzKmkT1kEVI/AAAAAAAAelI/HU1M-5v6K18/s800/food_omelet.png",
-    "en": "omelet",
+    "image": "https://3.bp.blogspot.com/-XmtjDKJI8ts/UQuSU6Bc1FI/AAAAAAAALvM/OQNrmsrzyf4/s1600/shoes_38.png",
+    "en": "koala",
     "ja": {
-      "kanji": "オムレツ",
-      "hiragana": "おむれつ"
+      "kanji": "コアラ",
+      "hiragana": "こあら"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-0SvuIaFLFfA/W_UF-s1Hp1I/AAAAAAABQUU/vEqva7t2Q-oJncfmE1WTA9C79-KhQ6AXwCLcBGAs/s800/food_spaghetti_tarako.png",
-    "en": "spahgetti",
+    "image": "https://1.bp.blogspot.com/-Akc9alDokVQ/UchB8VvawsI/AAAAAAAAVF8/S1y3LVIgurQ/s800/animal_penguin.png",
+    "en": "penguin",
     "ja": {
-      "kanji": "スパゲッティ",
-      "hiragana": "すぱげってぃ"
+      "kanji": "ペンギン",
+      "hiragana": "ぺんぎん"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-KKPbDbr6lsU/UWgWiV8ztXI/AAAAAAAAQFg/olFw75vshzQ/s1600/sweets_applepie.png",
-    "en": "pie",
+    "image": "https://3.bp.blogspot.com/-0NH6yQqogJw/Vn-Cns03meI/AAAAAAAA2L0/G6A4S-8YTpc/s800/eto_remake_inu.png",
+    "en": "dog",
     "ja": {
-      "kanji": "パイ",
-      "hiragana": "ぱい"
+      "kanji": "犬",
+      "hiragana": "いぬ"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-Fa6AIKVnh1c/VVGVbTWRGkI/AAAAAAAAtlY/MlG36yqDSxw/s800/food_vegetable_sald.png",
-    "en": "salad",
+    "image": "https://4.bp.blogspot.com/-nzGNxI1lJsc/UnyGMotWQxI/AAAAAAAAadA/1NeQYPIZCmk/s800/neko_punch.png",
+    "en": "cat",
     "ja": {
-      "kanji": "サラダ",
-      "hiragana": "さらだ"
+      "kanji": "猫",
+      "hiragana": "ねこ"
     }
   },
   {
-    "image": "https://4.bp.blogspot.com/-VtsRr-xjY00/Us_NcICBs8I/AAAAAAAAdJU/NNzOgC7bfWQ/s800/food_omisoshiru.png",
-    "en": "soup",
-    "ja": [
+    "image": "https://2.bp.blogspot.com/-bTO-CzLabL4/UaVVAUOvdKI/AAAAAAAAT-E/rweSONZMmB4/s800/animal_usagi_ninjin.png",
+    "en": "rabbit",
+    "ja": 
       {
-        "kanji": "スープ",
-        "hiragana": "すーぷ"
-      },
-      {
-        "kanji": "汁",
-        "hiragana": "しる"
+        "kanji": "ウサギ",
+        "hiragana": "うさぎ"
       }
-    ]
+    
+  }
+  {
+    "image": "https://4.bp.blogspot.com/-7SeW4MvjfRw/VJF_KaYOeOI/AAAAAAAApzc/0oR_HDOmYy4/s800/animalface_nezumi.png",
+    "en": "mouse",
+    "ja": 
+      {
+        "kanji": "ネズミ",
+        "hiragana": "ねずみ"
+      }
+    
+  }{
+    "image": "https://4.bp.blogspot.com/-cQC15E-E2zs/UZRBbA8gqiI/AAAAAAAASlk/CkN1TzzuZHw/s800/hebi_pink.png",
+    "en": "snake",
+    "ja": 
+      {
+        "kanji": "蛇",
+        "hiragana": "へび"
+      }
+    
+  }{
+    "image": "https://1.bp.blogspot.com/-ZKDa7zhJM5Y/UaVU8rej4yI/AAAAAAAAT8o/v7DF1VN3GH8/s800/animal_kaeru.png",
+    "en": "frog",
+    "ja": 
+      {
+        "kanji": "カエル",
+        "hiragana": "かえる"
+      }
+    
+  }{
+    "image": "https://1.bp.blogspot.com/-nMTqgygyczs/VqtZItHn2_I/AAAAAAAA3ZY/5ZfrZPuZzbY/s800/bird_aoitori_bluebird.png",
+    "en": "bird",
+    "ja": 
+      {
+        "kanji": "鳥",
+        "hiragana": "とり"
+      }
+    
+  }{
+    "image": "https://1.bp.blogspot.com/-NpNETvt34Mk/Ws2v56_tgpI/AAAAAAABLZM/8Aw15pAwPKA3RGXcgnhFwFD_hH0XqDKcwCLcBGAs/s800/seiza_washi.png",
+    "en": "eagle",
+    "ja": 
+      {
+        "kanji": "わし",
+        "hiragana": "わし"
+      }
+    
   }
 ]
