@@ -1,0 +1,90 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-_7vegtecMrI/VpjBrLXpYvI/AAAAAAAA26c/BpxTXgHtTs8/s1600/bg_school_room.jpg",
+    "en": "classroom",
+    "ja": {
+      "kanji": "教室",
+      "hiragana": "きょうしつ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-ce7Mq8D2q3M/VnEytZOL6DI/AAAAAAAA1vQ/psQDGfs3Pqk/s800/school_toshokan_hondana.png",
+    "en": "library",
+    "ja": {
+      "kanji": "図書館",
+      "hiragana": "としょかん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-uCGBQ-lnXG4/VDxwClxXI8I/AAAAAAAAn_A/nFnn7ZZOlCw/s800/music_piano.png",
+    "en": "music room",
+    "ja": {
+      "kanji": "音楽室",
+      "hiragana": "おんがくしつ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-bthkpH7aumM/XwkxYLCim9I/AAAAAAABZ_Y/PAuyA3NYApI6IA6Uqdw2NWyrJV2MUXW-QCNcBGAsYHQ/s1600/bg_school_taiikukan.jpg",
+    "en": "gym",
+    "ja": {
+      "kanji": "体育館",
+      "hiragana": "たいいくかん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-0EfPRytvV1Y/Uab35O-U9VI/AAAAAAAAUXc/g37lfWSocW8/s800/school_koutei.png",
+    "en": "playground",
+    "ja": {
+      "kanji": "グラウンド",
+      "hiragana": "ぐらうんど"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-B2lG7nbQS7s/UZYlLxAqswI/AAAAAAAATK8/xBolWYdpRHo/s800/suiei_pool.png",
+    "en": "swimming pool",
+    "ja": {
+      "kanji": "プール",
+      "hiragana": "ぷーる"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-5yoDcFk10jk/VGLMBvSjt3I/AAAAAAAAo7o/wuxO9YO1mTM/s800/room02_syokuin.png",
+    "en": "teachers' office",
+    "ja": {
+      "kanji": "しょく員室",
+      "hiragana": "しょくいんしつ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Qial_L-NvBw/VmFjvZu188I/AAAAAAAA1Y4/g8BiKFR81Zk/s800/school_hokenshitsu.png",
+    "en": "school nurses' office",
+    "ja": {
+      "kanji": "保健室",
+      "hiragana": "ほけんしつ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-4aekjGEytps/VGLMAiz9g5I/AAAAAAAAo7A/DyNG-OtvR1g/s800/room01_kouchou.png",
+    "en": "school principal's office",
+    "ja": {
+      "kanji": "校長室",
+      "hiragana": "こうちょうしつ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-iGVTWXktPzk/U6llQYUtidI/AAAAAAAAht4/hIhpxJItWRM/s800/getabako_school.png",
+    "en": "entrance",
+    "ja": {
+      "kanji": "玄関",
+      "hiragana": "げんかん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-75jBwVcGYyM/VxyVCgxT3HI/AAAAAAAA6CU/viznfJkhPCYVDBctbsZkY2A9X7yDDX3dACLcB/s800/toilet_gyouretsu.png",
+    "en": "restroom",
+    "ja": {
+      "kanji": "お手洗い",
+      "hiragana": "おてあらい"
+    }
+  }
+]
