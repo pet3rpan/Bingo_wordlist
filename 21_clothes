@@ -1,0 +1,83 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-7jASgAsgq8I/UYiN2NfCdxI/AAAAAAAART8/1SStJkaOSAg/s800/cloth_tshirt.png",
+    "en": "T-shirt",
+    "ja": {
+      "kanji": "Tシャツ",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-sMwr_-r-bYM/UWgWXIlkIJI/AAAAAAAAQBc/c9adzg0csvA/s1600/fashion_nerusyatsu.png",
+    "en": "shirt",
+    "ja": {
+      "kanji": "シャツ",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-JP7SvmPcQDo/W-0ghW74s5I/AAAAAAABQKk/C0w1nxxp5ZMxTb2QJCYkxXfEiUiaIK91ACLcBGAs/s800/fashion_sweater_vest.png",
+    "en": "vest",
+    "ja": {
+      "kanji": "チョッキ",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-YoOcHByKQeM/WWNAg5FZUgI/AAAAAAABFUA/R7DD099YKuEh_xmwM_MDzYZLvyF-RI0cgCLcBGAs/s800/fashion_sweater_turtle.png",
+    "en": 
+      "sweater",
+    "ja": {
+      "kanji": "セーター",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-F5Tt2VoG3U0/U-8FvYC1ERI/AAAAAAAAkxY/YiSzIsYU6-Y/s800/seifuku_gakuran.png",
+    "en": "uniform",
+    "ja": {
+      "kanji": "制服",
+      "hiragana": "せいふく"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-zrwJd18ni_M/UaVU_qRokmI/AAAAAAAAT9w/apfFHGRZSfI/s800/animal_shimauma.png",
+    "en": "pants",
+    "ja": {
+      "kanji": "ズボン",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-7n2-MFuLUXA/WxvJ0Yh0ThI/AAAAAAABMkE/vPYGdqmrQGg8ZuKFUbQAfxsjqvW2Qg4MgCLcBGAs/s800/fashion_tsuugakubou_cap.png",
+    "en": "cap",
+    "ja": {
+      "kanji": "キャップ",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-R0N3bIJb348/WB7ND0lLHgI/AAAAAAAA_ZQ/oC_IR2_2RzUCe-ak3x8sRDgnEHp3bnZZwCLcB/s800/music_fue_saru.png",
+    "en": "hat",
+    "ja": {
+      "kanji": "帽子",
+      "hiragana": "ぼうし"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/--nvHJRuRLyk/UaVVRrky-wI/AAAAAAAAUDc/a4JYxO3JyXQ/s800/tebukuro.png",
+    "en": "gloves",
+    "ja": {
+      "kanji": "手袋",
+      "hiragana": "てぶくろ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-RSOpHGmNPXA/UYiNzeOkQnI/AAAAAAAARTM/G0j7oN1zFms/s800/cloth_kutsushita.png",
+    "en": "socks",
+    "ja": {
+      "kanji": "靴下",
+      "hiragana": "くつした"
+    }
+  }
+]
