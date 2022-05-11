@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-WHkqAQzGJns/U6QoyVvqdcI/AAAAAAAAhjA/3ch2mS1bYyo/s800/omocha_kureyon.png",
+    "en": "crayon",
+    "ja": {
+      "kanji": "クレヨン",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-hoRVGX1aFAE/UOFKFpHe89I/AAAAAAAAKEE/LDo8dWCDCW8/s1600/bunbougu_marker.png",
+    "en": "marker",
+    "ja": {
+      "kanji": "マーカー",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-RwlMqLQKy5w/W9RcJO7QpAI/AAAAAAABPog/51Aezmj8hTA1gaCqvBtpvhKCQXiEQVzYwCLcBGAs/s800/bunbougu_ballpen.png",
+    "en": "pen",
+    "ja": {
+      "kanji": "ボールペン",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-FsBSQ-gi9lk/UOFJzxCpzkI/AAAAAAAAKCA/4MU4CyYMBq4/s1600/bunbougu_enpitsu.png",
+    "en": 
+      "pencil",
+    "ja": {
+      "kanji": "鉛筆",
+      "hiragana": "えんぴつ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-QgxApbRtlWw/WBsAx8snYaI/AAAAAAAA_V0/nLkOW9h8ZWoU-jZo5cgSozKLb-xDmvNzACLcB/s800/pen_fudebako.png",
+    "en": "pencil case",
+    "ja": {
+      "kanji": "筆箱",
+      "hiragana": "ふでばこ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-FDFoLooI_Uo/UOFJ1FHGyBI/AAAAAAAAKCM/7ZDNncGGJgs/s1600/bunbougu_enpitsukeduri.png",
+    "en": "pencil sharpener",
+    "ja": {
+      "kanji": "鉛筆削り",
+      "hiragana": "えんぴつけずり"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-e77cr6l0sR4/UOFKBMw2R4I/AAAAAAAAKDg/6eTaQgsBGZQ/s1600/bunbougu_keshigomu.png",
+    "en": "eraser",
+    "ja": {
+      "kanji": "消しゴム",
+      "hiragana": "けしごむ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-f902KI015I8/UOFKAPbdaeI/AAAAAAAAKDc/Y8huSlKe93c/s1600/bunbougu_jougi.png",
+    "en": "ruler",
+    "ja": {
+      "kanji": "定規",
+      "hiragana": "じょうぎ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-2A11gXaYmFc/UOFKSKh5tKI/AAAAAAAAKFc/YijDtjbMeHM/s1600/bunbougu_sticknori.png",
+    "en": "glue",
+    "ja": {
+      "kanji": "のり",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-1okSffy4dYs/UOFJ-F5D3BI/AAAAAAAAKDM/zPTnBzoMr6w/s1600/bunbougu_hasami.png",
+    "en": "scissors",
+    "ja": {
+      "kanji": "ハサミ",
+      "hiragana": ""
+    }
+  },  
+  {
+    "image": "https://1.bp.blogspot.com/-n20nqVEkYEc/UOFJ_POxI3I/AAAAAAAAKDQ/coNrgk1Esu4/s1600/bunbougu_hochikisu.png",
+    "en": "stapler",
+    "ja": {
+      "kanji": "ホチキス",
+      "hiragana": ""
+    }
+  },  {
+    "image": "https://2.bp.blogspot.com/-FFQ5vJihLlQ/WCP3o-ejZ9I/AAAAAAAA_cc/d_2bxXJpqi4buPScUk6gmVdDBhPBFc8BwCLcB/s800/bunbougu_note.png",
+    "en": "notebook",
+    "ja": {
+      "kanji": "ノート",
+      "hiragana": ""
+    }
+  }
+]
