@@ -1,0 +1,83 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-Nt4dKawuffo/UkJM4H6t95I/AAAAAAAAYVA/2FzIfUH5CAo/s800/goya_bittergourd.png",
+    "en": "bitter",
+    "ja": {
+      "kanji": "苦い",
+      "hiragana": "にがい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-f5Dws--OaQk/UgSMM28AN1I/AAAAAAAAW-k/FumMNn1Iw_o/s800/sweets_yakiimo.png",
+    "en": "sweet",
+    "ja": {
+      "kanji": "甘い",
+      "hiragana": "あまい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-C274JNx-u9Q/V6iHmgcnObI/AAAAAAAA88U/xgC8PfeLP2khNYz0ghMa5QkjaeVEGJyjACLcB/s800/cooking_syouyu_bottle.png",
+    "en": "salty",
+    "ja": {
+      "kanji": "しょっぱい",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-UqVL2dBOyMc/WxvKDt8MQbI/AAAAAAABMmk/qHrz-vwCKo8okZsZpZVDsHLsKFXdI1BjgCLcBGAs/s800/fruit_lemon_tategiri.png",
+    "en": 
+      "sour",
+    "ja": {
+      "kanji": "酸っぱい",
+      "hiragana": "すっぱい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-0WV8r_cLMfU/Uvy6KTjFr-I/AAAAAAAAdwU/KM72BfHGXbs/s800/character_tougarashi.png",
+    "en": "spicy",
+    "ja": {
+      "kanji": "辛い",
+      "hiragana": "からい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-y9KL6zKnp1M/UsZuHl3gCTI/AAAAAAAAc4A/3CQkgvVYr_Q/s800/woman1_oishii.png",
+    "en": "delicious",
+    "ja": {
+      "kanji": "おいしい",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-dyEim_sFoKs/UZNyJyOe1tI/AAAAAAAASh4/tBtgULwYgac/s800/syougatsu2_mochi.png",
+    "en": "soft",
+    "ja": {
+      "kanji": "やわらかい",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-dSdvr7ThWAE/WMfCT9H2ckI/AAAAAAABCmY/UwTZSQ82QgcWEtqv1v1PR2nHTGR2hbHNwCLcB/s800/sweets_senbei_yakisenbei.png",
+    "en": "hard",
+    "ja": {
+      "kanji": "かたい",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-fezsdvk1H4Q/UYOw7ENVb6I/AAAAAAAARLw/a8oLXspXohQ/s600/icecream.png",
+    "en": "cold",
+    "ja": {
+      "kanji": "冷たい",
+      "hiragana": "つめたい"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-_ZJ27x1sNOo/UgSMElOMnEI/AAAAAAAAW7k/HIurBOUIaoY/s800/food_nabe.png",
+    "en": "hot",
+    "ja": {
+      "kanji": "熱い",
+      "hiragana": "あつい"
+    }
+  }
+]
