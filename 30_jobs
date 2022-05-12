@@ -1,0 +1,190 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-Nq1ygftgfxY/WJmxKgsMMLI/AAAAAAABBlI/kneQjOSx_nI-l67VlfCfOTgTTiDUNj2RQCLcB/s800/slump_good_man_paint.png",
+    "en": "artist",
+    "ja": {
+      "kanji": "芸術家",
+      "hiragana": "げいじゅつか"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-zlso7hu804w/UZYkzAG38-I/AAAAAAAATF4/PVt_3TDoBf0/s800/job_musician.png",
+    "en": "musician",
+    "ja": {
+      "kanji": "ミュージシャン",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-Pgg__4tGd9Y/XAY5_lKncBI/AAAAAAABQgo/L67KI7GfqoAcSC9nWNOOZ012R8x4VdMmACLcBGAs/s800/music_recording_singer_man.png",
+    "en": "singer",
+    "ja": {
+      "kanji": "歌手",
+      "hiragana": "かしゅ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-zR9zUvf_Z4Q/V9vBmvCa4pI/AAAAAAAA94k/1LpnrOf2Jf0XSm3d4tl0afADOPmQTyIAQCLcB/s800/owarai_manzai.png",
+    "en": 
+      "comedian",
+    "ja": {
+      "kanji": "お笑い芸人",
+      "hiragana": "おわらいげいにん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-WK8bF0PScz0/Ugsxcg6jwHI/AAAAAAAAXXY/e9VZyoP23zw/s800/job_doctor_woman.png",
+    "en": "doctor",
+    "ja": {
+      "kanji": "医者",
+      "hiragana": "いしゃ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-4gGE0Nl1C2A/VZ-QQFK5foI/AAAAAAAAvIs/zPoVAJVzQUk/s800/nurse_man1_smile.png",
+    "en": "nurse",
+    "ja": {
+      "kanji": "看護師",
+      "hiragana": "かんごし"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-P4vGdJhIxek/VRUQFRC1ApI/AAAAAAAAsgE/LDPv4ZyNxls/s800/job_haisya_woman.png",
+    "en": "dentist",
+    "ja": {
+      "kanji": "歯医者",
+      "hiragana": "はいしゃ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-5ackTbxtQxE/VJF_3uddarI/AAAAAAAAp7c/gXJ4h0ftFd8/s800/pet_kenkou_shindan.png",
+    "en": "vet",
+    "ja": {
+      "kanji": "獣医",
+      "hiragana": "じゅい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-qzHuzMuOzOQ/WlGpbtBcrYI/AAAAAAABJnE/qPDDIn4stWUMIMI5kipBAn0LwVBBN_qggCLcBGAs/s800/job_shiikuin_woman_annai.png",
+    "en": "zookeeper",
+    "ja": {
+      "kanji": "飼育係",
+      "hiragana": "しいくかかり"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-ww3FOXhdv3o/XtxD01SzU4I/AAAAAAABZUs/T-xR80MjGl81ZBuFR991siVY-EZx9HP1QCNcBGAsYHQ/s1600/cooking_chef_woman_asia_mask.png",
+    "en": "cook",
+    "ja": {
+      "kanji": "料理人",
+      "hiragana": "りょうりにん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-PRc-ItwtdpA/UZYkzt9nm6I/AAAAAAAATGE/dRZuOBxQLH0/s800/job_panya.png",
+    "en": "baker",
+    "ja": {
+      "kanji": "パン屋さん",
+      "hiragana": "ぱんやさん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-h1WkiaXHh2Q/UZYkwTEC_cI/AAAAAAAATEw/CVYP9xxA8Xc/s800/job_hanaya.png",
+    "en": "florist",
+    "ja": {
+      "kanji": "花屋さん",
+      "hiragana": "はなやさん"
+    }
+  },{
+    "image": "https://3.bp.blogspot.com/-R-2udGAMrIw/WwJaIl4045I/AAAAAAABMKI/Dj-EBdg0vRkbA9HpMnbAY2N63gQLxEh-gCLcBGAs/s800/fruit_nouka_ringo.png",
+    "en": "farmer",
+    "ja": {
+      "kanji": "農家",
+      "hiragana": "のうか"
+    }
+  },{
+    "image": "https://1.bp.blogspot.com/-Yau32UFmXug/XRwq7C0j-WI/AAAAAAABTfs/HUUGhaAtnicPjTdApun75iI8QPTCh2BagCLcBGAs/s800/police_shirt_skirt_woman1_young.png",
+    "en": "police officer",
+    "ja": {
+      "kanji": "警察",
+      "hiragana": "けいさつ"
+    }
+  },{
+    "image": "https://3.bp.blogspot.com/-mt-t9u8mZk4/Us_MS2Wp2kI/AAAAAAAAdEc/W8alBAMR1mQ/s800/shouboushi_woman.png",
+    "en": "fire fighter",
+    "ja": {
+      "kanji": "消防士",
+      "hiragana": "しょうぼうし"
+    }
+  },{
+    "image": "https://2.bp.blogspot.com/-y-GK-IHZ8-w/Wlrurr7k-1I/AAAAAAABJtI/2uuDdEks0L0LkFkXAOTT577qJqIygKtyQCLcBGAs/s800/job_pilot_man.png",
+    "en": "pilot",
+    "ja": {
+      "kanji": "パイロット",
+      "hiragana": ""
+    }
+  },{
+    "image": "https://4.bp.blogspot.com/-B9ODv8TDMgI/UZYkvIAccYI/AAAAAAAATEU/PU2EP08TWzA/s800/job_cabin_attendant.png",
+    "en": "flight attendant",
+    "ja": {
+      "kanji": "客室乗務員",
+      "hiragana": "きゃくしつじょうむいん"
+    }
+  },{
+    "image": "https://1.bp.blogspot.com/-kGqMnguJ2CU/XrOaBBLGmcI/AAAAAAABYvQ/tr0Y9YdnC-YyTZFG-3KWMPwBcTi0R-gzgCNcBGAsYHQ/s1600/job_bus_driver_man_mask.png",
+    "en": "bus driver",
+    "ja": {
+      "kanji": "バス運転手",
+      "hiragana": "ばすうんてんしゅ"
+    }
+  },{
+    "image": "https://2.bp.blogspot.com/-ztb_BEiccbA/VRUSnnxpu2I/AAAAAAAAstY/1VZw-txZhOY/s800/job_space_yoatsufuku_woman.png",
+    "en": "astronaut",
+    "ja": {
+      "kanji": "宇宙飛行士",
+      "hiragana": "うちゅうひこうし"
+    }
+  },{
+    "image": "https://3.bp.blogspot.com/-PuyN3T22kew/VwdI30jgV0I/AAAAAAAA5mY/ZHt079CgwF4g6xrSXs9f4VjpMeQnYaNjw/s800/job_teacher_woman.png",
+    "en": "teacher",
+    "ja": {
+      "kanji": "教師",
+      "hiragana": "きょうし"
+    }
+  },{
+    "image": "https://1.bp.blogspot.com/-dW73Iqojabw/UZYkyJCILUI/AAAAAAAATFc/MiL_EitgfQk/s800/job_kagakusya.png",
+    "en": "scientist",
+    "ja": {
+      "kanji": "科学者",
+      "hiragana": "かがくしゃ"
+    }
+  },{
+    "image": "https://2.bp.blogspot.com/-Lm75_V4O7JY/V3x2OZbmIFI/AAAAAAAA8II/fzLckySfqnk0k7P-_YkSF8aDEBuUBodpQCLcB/s800/job_programmer.png",
+    "en": "programmer",
+    "ja": {
+      "kanji": "プログラマー",
+      "hiragana": "ぷろぐらまー"
+    }
+  },{
+    "image": "https://2.bp.blogspot.com/-dA9RVwxskVY/W6DTFutMPMI/AAAAAAABO5M/FKfn9nvK5EIsQ9XtpFvBRhV92PuiGJuHwCLcBGAs/s800/baseball_goro.png",
+    "en": "baseball player",
+    "ja": {
+      "kanji": "野球選手",
+      "hiragana": "やきゅうせんしゅ"
+    }
+  },{
+    "image": "https://1.bp.blogspot.com/-pVWJ8byG2uY/UbVvTW4TnHI/AAAAAAAAUuY/xlZJy0IalVk/s800/soccer_dribble2.png",
+    "en": "soccer player",
+    "ja": {
+      "kanji": "サッカー選手",
+      "hiragana": "さっかーせんしゅ"
+    }
+  },{
+    "image": "https://3.bp.blogspot.com/-M3zeR0aX9XE/Wp94CvEUISI/AAAAAAABKqU/y9LvoPbL5c4xxmCwFNlQYiVG6PupucyfACLcBGAs/s800/kid_job_girl_figureskater.png",
+    "en": "figure staker",
+    "ja": {
+      "kanji": "フィギュアスケーター",
+      "hiragana": ""
+    }
+  }
+]
