@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-93EsFuhpCKo/UNbgb6ZaNHI/AAAAAAAAJPE/ZIVJ0VqJSRM/s1600/mark_tenki_hare.png",
+    "en": "sunny",
+    "ja": {
+      "kanji": "晴れ",
+      "hiragana": "はれ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-a148-_9uwxU/UNbgiw9khuI/AAAAAAAAJP4/c5FPmhaSKhc/s1600/mark_tenki_umbrella.png",
+    "en": "rainy",
+    "ja": {
+      "kanji": "雨",
+      "hiragana": "あめ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Kas7dqv2tBk/UNbgdBVs_wI/AAAAAAAAJPU/GGxpD21ZpjM/s1600/mark_tenki_kumori.png",
+    "en": "cloudy",
+    "ja": {
+      "kanji": "くもり",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-3_9UVV8GT_4/UR2iwuHZcSI/AAAAAAAAMx8/dSxZ8XCFaes/s1600/tenki_snow.png",
+    "en": 
+      "snowy",
+    "ja": {
+      "kanji": "雪",
+      "hiragana": "ゆき"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-KW27E4JiNTE/Xdtt0gcKiQI/AAAAAAABWMo/9NiBnoc5Y88XXY3gcKwnaqQUsdf4r7gcwCNcBGAsYHQ/s1600/sports_dodgeball_boy_girl.png",
+    "en": "play dodgeball",
+    "ja": {
+      "kanji": "ドッジボールをする",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-RO0zemWsUSQ/UZ2VAi259hI/AAAAAAAATsY/XrKm6g5spTQ/s800/kids_cardgame.png",
+    "en": "play cards",
+    "ja": {
+      "kanji": "カードをする",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-O_ABTo-7aVI/U4008XlhDhI/AAAAAAAAg64/0ChaRMRD8xc/s800/asobi_onigokko.png",
+    "en": "play tag",
+    "ja": {
+      "kanji": "鬼ごっこをする",
+      "hiragana": "おにごっこをする"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-sah1NY-L6ng/VUIJoNXNyII/AAAAAAAAtXA/Q5xyDlcys7s/s800/yukidaruma_boy.png",
+    "en": "make a snowman",
+    "ja": {
+      "kanji": "雪だるまを作る",
+      "hiragana": "ゆきだるまをつくる"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-k1qIK-pCLgQ/WxvJ0r7gVDI/AAAAAAABMkI/9oYLwUD33oY6DdRdkpqUbYes-c-TPx8TwCLcBGAs/s800/fashion_tsuugakubou_hat.png",
+    "en": "hat",
+    "ja": {
+      "kanji": "帽子",
+      "hiragana": "ぼうし"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-7n2-MFuLUXA/WxvJ0Yh0ThI/AAAAAAABMkE/vPYGdqmrQGg8ZuKFUbQAfxsjqvW2Qg4MgCLcBGAs/s800/fashion_tsuugakubou_cap.png",
+    "en": "cap",
+    "ja": {
+      "kanji": "キャップ",
+      "hiragana": ""
+    }
+  },  
+  {
+    "image": "https://1.bp.blogspot.com/-3OLp0irCXTA/X68aotxcJdI/AAAAAAABcS8/mHt0rk2_TlMiJ8tuGhzZXOCtVzx3HDECgCNcBGAsYHQ/s742/fashion_shirt3_skyblue.png",
+    "en": "shirt",
+    "ja": {
+      "kanji": "シャツ",
+      "hiragana": ""
+    }
+  },  {
+    "image": "https://2.bp.blogspot.com/-A6T1aNMkMzs/VOsXCloHVmI/AAAAAAAArz8/5OOH5wm82Z4/s800/nagagutsu_yellow.png",
+    "en": "boots",
+    "ja": {
+      "kanji": "長靴",
+      "hiragana": "ながぐつ"
+    }
+  }
+]
