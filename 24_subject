@@ -1,0 +1,91 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-4DPCCmk5Hk8/UsZsuoRnnVI/AAAAAAAAcp0/t8MBnNFCM7U/s800/school_mark05_eigo.png",
+    "en": "English",
+    "ja": {
+      "kanji": "英語",
+      "hiragana": "えいご"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-SRFgpqsO5bE/UsZss6Y81WI/AAAAAAAAcpU/ADXzqb2WyTI/s800/school_mark01_kokugo.png",
+    "en": "Japanese",
+    "ja": {
+      "kanji": "日本語",
+      "hiragana": "にほんご"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-CuKFooQUkSE/UsZsxbmdt-I/AAAAAAAAcq8/aPIbIzd_5sc/s800/school_mark12_syodou.png",
+    "en": "caligraphy",
+    "ja": {
+      "kanji": "書写",
+      "hiragana": "しょしゃ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-H4dHdhkH7NI/UsZsudWqWAI/AAAAAAAAcp4/UTarqYEyxRU/s800/school_mark04_syakai.png",
+    "en": 
+      "social studies",
+    "ja": {
+      "kanji": "社会",
+      "hiragana": "しゃかい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-SJSswko6uaE/UsZst85dYYI/AAAAAAAAcpk/inoFSwG2gxg/s800/school_mark02_sugaku.png",
+    "en": "math",
+    "ja": {
+      "kanji": "算数・数学",
+      "hiragana": "さんすう・すうがく"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-xLR1fOuyXlg/UsZst1pgPkI/AAAAAAAAcp8/lM5OZphMLAw/s800/school_mark03_kagaku.png",
+    "en": "science",
+    "ja": {
+      "kanji": "科学",
+      "hiragana": "かがく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-d0APuahW0q4/UsZswUn6OSI/AAAAAAAAcqY/UQt_NjQN7gA/s800/school_mark09_ongaku.png",
+    "en": "music",
+    "ja": {
+      "kanji": "音楽",
+      "hiragana": "おんがく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Upq7AdY-eJA/UsZsv-zaJ1I/AAAAAAAAcqM/UpPGkaq6aC0/s800/school_mark08_bijutsu.png",
+    "en": "arts and crafts",
+    "ja": {
+      "kanji": "図画工作",
+      "hiragana": "ずがこうさく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Ghu-vlwJWfU/UsZsxO_HHII/AAAAAAAAcq0/_9z4dBSsiZM/s800/school_mark11_katei.png",
+    "en": "home economics",
+    "ja": {
+      "kanji": "家庭",
+      "hiragana": "かてい"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-nzgrndLra5M/UsZsvrRAZnI/AAAAAAAAcqI/6kxC5yBTIBs/s800/school_mark07_taiiku.png",
+    "en": "P.E.",
+    "ja": {
+      "kanji": "体育",
+      "hiragana": "たいいく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-BN1qaX2ae_4/YAOYeEMjz1I/AAAAAAABdOY/DXGIO8n3hW0vHBGk3YCmFv6YbMvDayTUQCNcBGAsYHQ/s753/character_angel.png",
+    "en": "moral education",
+    "ja": {
+      "kanji": "道徳",
+      "hiragana": "どうとく"
+    }
+  }
+]
