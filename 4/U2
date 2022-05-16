@@ -87,7 +87,15 @@
       "kanji": "シャツ",
       "hiragana": ""
     }
-  },  {
+  },  
+   {
+    "image": "https://1.bp.blogspot.com/-mOqa6qZKLnA/X68ale5AZkI/AAAAAAABcSI/Lc4eFUgZ408wU-4hC8igfjzuoZx_UY6JACNcBGAsYHQ/s627/fashion_pants2_black.png",
+    "en": "pants",
+    "ja": {
+      "kanji": "ズボン",
+      "hiragana": ""
+    }
+  },{
     "image": "https://2.bp.blogspot.com/-A6T1aNMkMzs/VOsXCloHVmI/AAAAAAAArz8/5OOH5wm82Z4/s800/nagagutsu_yellow.png",
     "en": "boots",
     "ja": {
