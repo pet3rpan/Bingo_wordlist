@@ -95,7 +95,24 @@
       "kanji": "ズボン",
       "hiragana": ""
     }
-  },{
+  },
+  {
+    "image": "https://4.bp.blogspot.com/--nvHJRuRLyk/UaVVRrky-wI/AAAAAAAAUDc/a4JYxO3JyXQ/s800/tebukuro.png",
+    "en": "gloves",
+    "ja": {
+      "kanji": "手袋",
+      "hiragana": "れぶくろ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-zFkoNon5sO0/XTPonwtUm-I/AAAAAAABT0g/nnL0ud9YbckHIIaxNM0PUQz41GlHHhpqACLcBGAs/s800/rain_kasa_black_open.png",
+    "en": "umbrella",
+    "ja": {
+      "kanji": "傘",
+      "hiragana": "かさ"
+    }
+  },
+  {
     "image": "https://2.bp.blogspot.com/-A6T1aNMkMzs/VOsXCloHVmI/AAAAAAAArz8/5OOH5wm82Z4/s800/nagagutsu_yellow.png",
     "en": "boots",
     "ja": {
