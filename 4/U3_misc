@@ -1,0 +1,106 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-EHAjk13ktEw/WGCxSG2P0yI/AAAAAAABApo/H7Q0ZkXHsDsMaJHYTKFpksDHp1cnddM9ACLcB/s800/jungle_jim_kids.png",
+    "en": "play with my friends",
+    "ja": {
+      "kanji": "友達と遊ぶ",
+      "hiragana": "ともだちとあそぶ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-kTM5zz8CDY4/VkLHWfvflJI/AAAAAAAA0Vg/bvWOXy_28Oo/s800/study_wakaru_girl.png",
+    "en": "study",
+    "ja": {
+      "kanji": "勉強する",
+      "hiragana": "べんきょうする"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-gUgh4CYEilE/V6iILsZhDVI/AAAAAAAA8_0/AevuNZ1w5VcE6Ym51w48pTfQ9Pu2MFScACLcB/s800/piano_girl.png",
+    "en": "play the piano",
+    "ja": {
+      "kanji": "ピアノを弾く",
+      "hiragana": "ぴあのをひく"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-Eeho_MbXgqE/WHG2S39jVEI/AAAAAAABBAc/pFfzbIHTiew-4wkDqnV5Wpv2xO04owvEgCLcB/s800/paralympic_swimming.png",
+    "en": 
+      "go swimming",
+    "ja": {
+      "kanji": "水泳に行く",
+      "hiragana": "すいえいにいく"
+    }
+  },
+    {
+    "image": "https://1.bp.blogspot.com/-06CY-TYLCXY/WzC965VpiKI/AAAAAAABM9E/4JxwHys-QS8x4SS5P7_4xpb8vbPwljieQCLcBGAs/s800/sports_soccer_through.png",
+    "en": "play soccer",
+    "ja": {
+      "kanji": "サッカーをする",
+      "hiragana": "さっかーをする"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/--IuPpq8ENS8/WUdZLtKQVgI/AAAAAAABFDg/oRVp16aGAF8TryDwVz_4BoK9xR-2eVWJgCLcBGAs/s800/tv_boy_tooku.png",
+    "en": "watch TV",
+    "ja": {
+      "kanji": "テレビを見る",
+      "hiragana": "てれびをみる"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-SM2FKN6pNMM/W8hDqITydSI/AAAAAAABPec/jO2ycWVDZE08IHgxpQMW4iRxdyLi_SzTQCLcBGAs/s800/character_kinoko.png",
+    "en": "mushroom",
+    "ja": {
+      "kanji": "きのこ",
+      "hiragana": ""
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-VtsRr-xjY00/Us_NcICBs8I/AAAAAAAAdJU/NNzOgC7bfWQ/s800/food_omisoshiru.png",
+    "en": "soup",
+    "ja": {
+      "kanji": "汁",
+      "hiragana": "しる"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-0h25wL_InKk/XW87Hs0AKjI/AAAAAAABUok/lF_mclUXtosC4J3WuZAJkByfExarSVNSQCLcBGAs/s1600/fruit_suika_red.png",
+    "en": "watermelon",
+    "ja": {
+      "kanji": "スイカ",
+      "hiragana": "すいか"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-KKPbDbr6lsU/UWgWiV8ztXI/AAAAAAAAQFg/olFw75vshzQ/s1600/sweets_applepie.png",
+    "en": "circle pie",
+    "ja": {
+      "kanji": "丸いパイ",
+      "hiragana": "まるいぱい"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bj4GTbFFr-Q/VMIt6uwBFYI/AAAAAAAAq0Q/wr72Gudauz8/s800/sashimi_salmon.png",
+    "en": "fresh fish",
+    "ja": {
+      "kanji": "新鮮な魚",
+      "hiragana": "しんせんなさかな"
+    }
+  },  
+  {
+    "image": "https://4.bp.blogspot.com/-HzshV4HPiyY/UbVu-3tfGqI/AAAAAAAAUlA/mkU3QQNPZ8U/s800/food_sandwitch.png",
+    "en": "sandwich",
+    "ja": {
+      "kanji": "サンドイッチ",
+      "hiragana": "さんどいっち"
+    }
+  },  {
+    "image": "https://3.bp.blogspot.com/-Fa6AIKVnh1c/VVGVbTWRGkI/AAAAAAAAtlY/MlG36yqDSxw/s800/food_vegetable_sald.png",
+    "en": "salad",
+    "ja": {
+      "kanji": "サラダ",
+      "hiragana": "さらだ"
+    }
+  }
+]
