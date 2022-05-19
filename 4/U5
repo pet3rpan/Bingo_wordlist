@@ -1,0 +1,131 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-XEIlEOPNPjc/Ws2vrr7fYfI/AAAAAAABLXU/YRWpD_Ce5osHxEpQbAg51alYYi03PkSmACLcBGAs/s800/pen_enpitsu_mark.png",
+    "en": "pencil",
+    "ja": {
+      "kanji": "鉛筆",
+      "hiragana": "えんぴつ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-e77cr6l0sR4/UOFKBMw2R4I/AAAAAAAAKDg/6eTaQgsBGZQ/s1600/bunbougu_keshigomu.png",
+    "en": "eraser",
+    "ja": {
+      "kanji": "消しゴム",
+      "hiragana": "けしごむ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-WYYqFG-W6GA/UOFJ2TlSFoI/AAAAAAAAKCU/zWlKs775CAw/s1600/bunbougu_fudebako.png",
+    "en": "pencil case",
+    "ja": {
+      "kanji": "筆箱",
+      "hiragana": "ふでばこ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-f902KI015I8/UOFKAPbdaeI/AAAAAAAAKDc/Y8huSlKe93c/s1600/bunbougu_jougi.png",
+    "en": 
+      "ruler",
+    "ja": {
+      "kanji": "定規",
+      "hiragana": "じょうび"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-2A11gXaYmFc/UOFKSKh5tKI/AAAAAAAAKFc/YijDtjbMeHM/s1600/bunbougu_sticknori.png",
+    "en": "glue stick",
+    "ja": {
+      "kanji": "スティックのり",
+      "hiragana": "すてぃっくのり"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-RwlMqLQKy5w/W9RcJO7QpAI/AAAAAAABPog/51Aezmj8hTA1gaCqvBtpvhKCQXiEQVzYwCLcBGAs/s800/bunbougu_ballpen.png",
+    "en": "pen",
+    "ja": {
+      "kanji": "ボールペン",
+      "hiragana": "ぼーるぺん"
+    }
+  },
+    {
+    "image": "https://1.bp.blogspot.com/-RJRt_Hv37Kk/VMIu-CCBpII/AAAAAAAAq2E/JsIJ8pPwmuY/s800/calender_takujou.png",
+    "en": "calendar",
+    "ja": {
+      "kanji": "カレンダー",
+      "hiragana": "かれんだー"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-tPjLiPy-uNY/WwJZluxRBRI/AAAAAAABMGQ/s1cVDWLRlwcWMHvXGTNnDHBM9jXlZViPACLcBGAs/s800/book_note_empty.png",
+    "en": "notebook",
+    "ja": {
+      "kanji": "ノート",
+      "hiragana": "のーと"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-n20nqVEkYEc/UOFJ_POxI3I/AAAAAAAAKDQ/coNrgk1Esu4/s1600/bunbougu_hochikisu.png",
+    "en": "stapler",
+    "ja": {
+      "kanji": "ホチキス",
+      "hiragana": "ほちきす"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-FDFoLooI_Uo/UOFJ1FHGyBI/AAAAAAAAKCM/7ZDNncGGJgs/s1600/bunbougu_enpitsukeduri.png",
+    "en": "pencil sharpener",
+    "ja": {
+      "kanji": "鉛筆削り",
+      "hiragana": "えんぴつけずり"
+    }
+  },  
+  {
+    "image": "https://2.bp.blogspot.com/-hoRVGX1aFAE/UOFKFpHe89I/AAAAAAAAKEE/LDo8dWCDCW8/s1600/bunbougu_marker.png",
+    "en": "marker",
+    "ja": {
+      "kanji": "マーカー",
+      "hiragana": "まーかー"
+    }
+  },
+    {
+    "image": "https://4.bp.blogspot.com/-NCxep9LCViw/XGjyEECip0I/AAAAAAABRd4/h-qHyA0wlUwkYExj67FwkQhn7Co7mQrpgCLcBGAs/s800/jisyaku_magnet_ferrite.png",
+    "en": "magnet",
+    "ja": {
+      "kanji": "磁石",
+      "hiragana": "じしゃく"
+    }
+  },   
+  {
+    "image": "https://4.bp.blogspot.com/-36_reOy-K4s/UnIEA2ONJwI/AAAAAAAAZ8Q/m8lHcJIGUVM/s800/animal_zou.png",
+    "en": "big",
+    "ja": {
+      "kanji": "大きい",
+      "hiragana": "おおきい"
+    }
+  },    
+  {
+    "image": "https://1.bp.blogspot.com/-IlICl0NVq7U/W1vhr2OzORI/AAAAAAABNxw/fsIiReExFVYnr7zQ0UvlkXBOHQiwkYLJwCLcBGAs/s800/rat_mawashiguruma.png",
+    "en": "small",
+    "ja": {
+      "kanji": "小さい",
+      "hiragana": "ちいさい"
+    }
+  },    
+    {
+    "image": "https://2.bp.blogspot.com/-lsaz0CKMI2w/XGjyWy8T-oI/AAAAAAABRgQ/kbyYHA6f5iw1w7ESyCMlMCBxnpmkSTAJACLcBGAs/s800/line_dragon3.png",
+    "en": "long",
+    "ja": {
+      "kanji": "長い",
+      "hiragana": "ながい"
+    }
+  },  
+    {
+    "image": "https://2.bp.blogspot.com/-Ut28YMPKqvY/XGjyUs4PgaI/AAAAAAABRgA/4xOZ3BJujTUT7shiAHjI14FoU_M9960VgCLcBGAs/s800/line_dragon1.png",
+    "en": "short",
+    "ja": {
+      "kanji": "短い",
+      "hiragana": "みじかい"
+    }
+  }
+]
