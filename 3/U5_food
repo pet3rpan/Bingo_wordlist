@@ -1,0 +1,91 @@
+[
+{
+    "image": "https://2.bp.blogspot.com/-n1-71d0JCmg/WMfB_dW2OpI/AAAAAAABCj0/EmOvIE7TY8QkMrHhGgeJewV3fmXmdg62gCLcB/s800/food_omoide.png",
+    "en": 
+      "FOOD",
+    "ja": {
+      "kanji": "食べ物",
+      "hiragana": "たべもの"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-63vQtYUKJBY/UgSMCmG66LI/AAAAAAAAW6w/-VMth7DVjcY/s800/food_hamburger.png",
+    "en": "HAMBURGER",
+    "ja": {
+      "kanji": "ハンバーガー",
+      "hiragana": "はんばーがー"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-QRErz305OBA/UgSMHMmwbGI/AAAAAAAAW8U/UxiX8qVnYYQ/s800/food_pizza.png",
+    "en": "PIZZA",
+    "ja": {
+      "kanji": "ピザ",
+      "hiragana": "ぴざ"
+    }
+  },
+    {
+    "image": "https://2.bp.blogspot.com/-0SvuIaFLFfA/W_UF-s1Hp1I/AAAAAAABQUU/vEqva7t2Q-oJncfmE1WTA9C79-KhQ6AXwCLcBGAs/s800/food_spaghetti_tarako.png",
+    "en": "SPAGHETTI",
+    "ja": {
+      "kanji": "スパゲッティ",
+      "hiragana": "すぱげってぃ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-3eNDhzaxDGY/UgSMIBj2yZI/AAAAAAAAW8o/XzYwXc9ttAY/s800/food_stake.png",
+    "en": "STEAK",
+    "ja": {
+      "kanji": "ステーキ",
+      "hiragana": "すてーき"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Fa6AIKVnh1c/VVGVbTWRGkI/AAAAAAAAtlY/MlG36yqDSxw/s800/food_vegetable_sald.png",
+    "en": "SALAD",
+    "ja": {
+      "kanji": "サラダ",
+      "hiragana": "さらだ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-ZRkAB2UIqe0/UgSMXRltjEI/AAAAAAAAXCc/O12xepeoB4Y/s800/sweets_shortcake.png",
+    "en": "CAKE",
+    "ja": {
+      "kanji": "ケーキ",
+      "hiragana": "けーき"
+    }
+  },  
+  {
+    "image": "https://4.bp.blogspot.com/-gybqqjR5o9A/UZmCNjgj14I/AAAAAAAATd4/N2CK8u2Vbsk/s800/cup_noodle.png",
+    "en": "NOODLE",
+    "ja": {
+      "kanji": "めん",
+      "hiragana": "めん"
+    }
+  },
+    {
+    "image": "https://1.bp.blogspot.com/-zm2o_FjKp9g/UVWMgyMLpKI/AAAAAAAAPI0/k7-D_izgZHI/s1600/kunsei_egg.png",
+    "en": "EGG",
+    "ja": {
+      "kanji": "卵",
+      "hiragana": "たまご"
+    }
+  },   
+  {
+    "image": "https://1.bp.blogspot.com/-8A5ACZzxzIc/VSufmA9-XMI/AAAAAAAAs-w/KHJbK1TW9s4/s800/food_konbini_onigiri.png",
+    "en": "RICE BALL",
+    "ja": {
+      "kanji": "おにぎり",
+      "hiragana": ""
+    }
+  },    
+  {
+    "image": "https://4.bp.blogspot.com/-3kUW_GFQ644/U-8FcV51nCI/AAAAAAAAkrs/gXpTcxYmHmw/s800/jam03_blueberry.png",
+    "en": "JAM",
+    "ja": {
+      "kanji": "ジャム",
+      "hiragana": "じゃむ"
+    }
+  }
+  ]
