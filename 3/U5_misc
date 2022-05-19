@@ -1,0 +1,90 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-inaC2K8n_k8/WLEu4_57dsI/AAAAAAABCGs/9B_aUmauA2U7FV6oktaSkmOmM_S0nF8SgCLcB/s800/olympic34_triathlon2.png",
+    "en": "SPORT",
+    "ja": {
+      "kanji": "スポーツ",
+      "hiragana": "すぽーつ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-KWiRwUrZHCY/WkdIDDRLq4I/AAAAAAABJYk/OiTZIKz_9KoWTQ_s_VsrKSKENO7DT93pACLcBGAs/s800/sports_volleyball_woman_atack.png",
+    "en": "VOLLEYBALL",
+    "ja": {
+      "kanji": "バレーボール",
+      "hiragana": "ばれーぼーる"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-aVRhEi440Ww/VwoG7mz1AgI/AAAAAAAA5n8/7K-hx2Ouoscermxsxdv0iS7bFwHrd7O6g/s800/takkyu_tabletennis_woman.png",
+    "en": "TABLE TENNIS",
+    "ja": {
+      "kanji": "卓球",
+      "hiragana": "たっきゅう"
+    }
+  },
+    {
+    "image": "https://1.bp.blogspot.com/--Z0FQl8l9sU/UbVvQV3OinI/AAAAAAAAUtE/XpDlhdqZxaY/s800/fruits_basket.png",
+    "en": "FRUIT",
+    "ja": {
+      "kanji": "果物",
+      "hiragana": "くだもの"
+    }
+  },  
+      {
+    "image": "https://1.bp.blogspot.com/--779YcNRCz4/Voze9rcg7wI/AAAAAAAA2eU/DCGzD5X-I9s/s800/fruit_grape_delaware.png",
+    "en": "GRAPES",
+    "ja": {
+      "kanji": "ブドウ",
+      "hiragana": "ぶどう"
+    }
+  },  
+      {
+    "image": "https://2.bp.blogspot.com/-0yLbnxQU0Ws/UgSMTeUiRyI/AAAAAAAAXA4/T3KvqtUp_2w/s800/fruit_pineapple.png",
+    "en": "PINEAPPLE",
+    "ja": {
+      "kanji": "パインアップル",
+      "hiragana": "ぱいなっぷる"
+    }
+  },  
+      {
+    "image": "https://1.bp.blogspot.com/-6HT7iIJ1Xs8/VGX8hLBmrOI/AAAAAAAApIA/W_dTS-CzgNA/s800/fruit_momo.png",
+    "en": "PEACH",
+    "ja": {
+      "kanji": "桃",
+      "hiragana": "もも"
+    }
+  },  
+      {
+    "image": "https://2.bp.blogspot.com/-wIs3pMkyXsg/UgSMRuzjm5I/AAAAAAAAXAY/OWFgXcK7cCs/s800/fruit_melon.png",
+    "en": "MELON",
+    "ja": {
+      "kanji": "メロン",
+      "hiragana": "めろん"
+    }
+  },  
+      {
+    "image": "https://1.bp.blogspot.com/-JaRzIloEZw4/UgSMOL-UzYI/AAAAAAAAW_A/vOiX6Tz5oO4/s800/fruit_banana.png",
+    "en": "BANANA",
+    "ja": {
+      "kanji": "バナナ",
+      "hiragana": "ばなな"
+    }
+  },  
+      {
+    "image": "https://2.bp.blogspot.com/-Y8xgv2nvwEs/WCdtGij7aTI/AAAAAAAA_fo/PBXfb8zCiQAZ8rRMx-DNclQvOHBbQkQEwCLcB/s800/fruit_kiwi_green.png",
+    "en": "KIWI FRUIT",
+    "ja": {
+      "kanji": "キウイフルーツ",
+      "hiragana": "きういふるーつ"
+    }
+  },  
+    {
+    "image": "https://4.bp.blogspot.com/-H83U_NEGoG4/UgSMQ23JTBI/AAAAAAAAXAE/DtbU7N7mugc/s800/fruit_lemon.png",
+    "en": "LEMON",
+    "ja": {
+      "kanji": "レモン",
+      "hiragana": "れもん"
+    }
+  }
+]
