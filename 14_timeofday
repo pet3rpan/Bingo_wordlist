@@ -1,0 +1,35 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-aUcDO0aDnJE/VJ6XKq39VYI/AAAAAAAAqGc/Er8Qx7cAdZc/s800/time1_asa.png",
+    "en": "morning",
+    "ja": {
+      "kanji": "朝",
+      "hiragana": "あさ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-6zjo3kUu7ko/VJ6XK2pggVI/AAAAAAAAqGg/skf8wO3bD_w/s800/time2_hiru.png",
+    "en": "afternoon",
+    "ja": {
+      "kanji": "午後",
+      "hiragana": "ごご"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-E0UZsU1P--M/VJ6XL8WSgpI/AAAAAAAAqGw/7mg8ekZUyBw/s800/time3_yuu.png",
+    "en": "evening",
+    "ja": {
+      "kanji": "夕方",
+      "hiragana": "ゆうがた"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-BPXRyPZGjrA/VJ6XMHPQHXI/AAAAAAAAqG4/FosuyD-hKOQ/s800/time4_yoru.png",
+    "en": 
+      "night",
+    "ja": {
+      "kanji": "夜",
+      "hiragana": "よる"
+    }
+  }
+]
