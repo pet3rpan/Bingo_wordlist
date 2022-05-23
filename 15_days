@@ -1,0 +1,59 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-923wU_1NL-Y/U0pTIlz9s2I/AAAAAAAAfEk/qqzogHoU3Lc/s800/weekmark1_mon.png",
+    "en": "Monday",
+    "ja": {
+      "kanji": "月曜日",
+      "hiragana": "げつようび"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
+    "en": "Tuesday",
+    "ja": {
+      "kanji": "火曜日",
+      "hiragana": "かようび"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
+    "en": "Wednesday",
+    "ja": {
+      "kanji": "水曜日",
+      "hiragana": "すいようび"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "en": 
+      "Thursday",
+    "ja": {
+      "kanji": "木曜日",
+      "hiragana": "もくようび"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
+    "en": "Friday",
+    "ja": {
+      "kanji": "金曜日",
+      "hiragana": "きんようび"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
+    "en": "Saturday",
+    "ja": {
+      "kanji": "土曜日",
+      "hiragana": "どようび"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
+    "en": "Sunday",
+    "ja": {
+      "kanji": "日曜日",
+      "hiragana": "にちようび"
+    }
+  }
+]
