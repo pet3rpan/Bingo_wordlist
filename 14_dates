@@ -1,255 +1,255 @@
 [
   {
-    "image": "https://2.bp.blogspot.com/-923wU_1NL-Y/U0pTIlz9s2I/AAAAAAAAfEk/qqzogHoU3Lc/s800/weekmark1_mon.png",
+    "image": "https://4.bp.blogspot.com/-7T-JzvxK5y0/UNO15R_x8oI/AAAAAAAAIvY/q6WNM45XVhE/s1600/number_1.png",
     "en": "first",
     "ja": {
-      "kanji": "月曜日",
-      "hiragana": "げつようび"
+      "kanji": "一日",
+      "hiragana": "ついたち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
+    "image": "https://1.bp.blogspot.com/-zYsWvZ2Dzek/UNO16JRlO-I/AAAAAAAAIvg/uZ8rFCv3Fko/s1600/number_2.png",
     "en": "second",
     "ja": {
-      "kanji": "火曜日",
-      "hiragana": "かようび"
+      "kanji": "二日",
+      "hiragana": "ふつか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
+    "image": "https://2.bp.blogspot.com/-YWUaTFjv2Lw/UNO17P9q_bI/AAAAAAAAIvo/Oiyc7TOC3V0/s1600/number_3.png",
     "en": "third",
     "ja": {
-      "kanji": "水曜日",
-      "hiragana": "すいようび"
+      "kanji": "三日",
+      "hiragana": "よっか"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "image": "https://2.bp.blogspot.com/-ACDt5s7fi5s/UNO18HREIRI/AAAAAAAAIvw/GQICsxU_jFw/s1600/number_4.png",
     "en": 
       "fourth",
     "ja": {
-      "kanji": "木曜日",
-      "hiragana": "もくようび"
+      "kanji": "四日",
+      "hiragana": "よっか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
+    "image": "https://4.bp.blogspot.com/-wc3qqfFnInQ/UNO19KMHOCI/AAAAAAAAIv4/YJj9twvvI0g/s1600/number_5.png",
     "en": "fifth",
     "ja": {
-      "kanji": "金曜日",
-      "hiragana": "きんようび"
+      "kanji": "五日",
+      "hiragana": "いつか"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
+    "image": "https://4.bp.blogspot.com/-XihUIBuL8k4/UNO191EQDcI/AAAAAAAAIwA/Kn7VSW6ToTg/s1600/number_6.png",
     "en": "sixth",
     "ja": {
-      "kanji": "土曜日",
-      "hiragana": "どようび"
+      "kanji": "六日",
+      "hiragana": "むいか"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
+    "https://2.bp.blogspot.com/-tjYbwCQw4S8/UNO1-r_86nI/AAAAAAAAIwI/LiSlF5IDHkE/s1600/number_7.png",
     "en": "seventh",
     "ja": {
-      "kanji": "日曜日",
-      "hiragana": "にちようび"
+      "kanji": "七日",
+      "hiragana": "なのか"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
+    "image": "https://3.bp.blogspot.com/-8SyWiLcpoWw/UNO2AHXdufI/AAAAAAAAIwU/fNc6cj-Qf5s/s1600/number_8.png",
     "en": "eighth",
     "ja": {
-      "kanji": "火曜日",
-      "hiragana": "かようび"
+      "kanji": "八日",
+      "hiragana": "ようか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
+    "image": "https://3.bp.blogspot.com/-KEpe5ww6bIA/UNO2A04yTQI/AAAAAAAAIwY/yiMMHxRTXms/s1600/number_9.png",
     "en": "ninth",
     "ja": {
-      "kanji": "水曜日",
-      "hiragana": "すいようび"
+      "kanji": "九日",
+      "hiragana": "ここのか"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/10.png",
     "en": 
       "tenth",
     "ja": {
-      "kanji": "木曜日",
-      "hiragana": "もくようび"
+      "kanji": "十日",
+      "hiragana": "とおか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/11.png",
     "en": "eleventh",
     "ja": {
-      "kanji": "金曜日",
-      "hiragana": "きんようび"
+      "kanji": "十一日",
+      "hiragana": "じゅういちにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/12.png",
     "en": "twelfth",
     "ja": {
-      "kanji": "土曜日",
-      "hiragana": "どようび"
+      "kanji": "十二日",
+      "hiragana": "じゅうににち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/13.png",
     "en": "thirteenth",
     "ja": {
-      "kanji": "日曜日",
-      "hiragana": "にちようび"
+      "kanji": "十三日",
+      "hiragana": "じゅうさんにち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/14.png",
     "en": "fourteenth",
     "ja": {
-      "kanji": "火曜日",
-      "hiragana": "かようび"
+      "kanji": "十四日",
+      "hiragana": "じゅうよっか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/15.png",
     "en": "fifteenth",
     "ja": {
-      "kanji": "水曜日",
-      "hiragana": "すいようび"
+      "kanji": "十五日",
+      "hiragana": "じゅうごにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/16.png",
     "en": 
       "sixteenth",
     "ja": {
-      "kanji": "木曜日",
-      "hiragana": "もくようび"
+      "kanji": "十六日",
+      "hiragana": "じゅうろくにち"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/17.png",
     "en": "seventeenth",
     "ja": {
-      "kanji": "金曜日",
-      "hiragana": "きんようび"
+      "kanji": "十七日",
+      "hiragana": "じゅうしちにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/18.png",
     "en": "eighteenth",
     "ja": {
-      "kanji": "土曜日",
-      "hiragana": "どようび"
+      "kanji": "十八日",
+      "hiragana": "じゅうはちにち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/19.png",
     "en": "nineteenth",
     "ja": {
-      "kanji": "日曜日",
-      "hiragana": "にちようび"
+      "kanji": "十九日",
+      "hiragana": "じゅうくにち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/20.png",
     "en": "twentieth",
     "ja": {
-      "kanji": "火曜日",
-      "hiragana": "かようび"
+      "kanji": "二十日",
+      "hiragana": "はつか"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
-    "en": "Wednesday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/21.png",
+    "en": "twenty-first",
     "ja": {
-      "kanji": "水曜日",
-      "hiragana": "すいようび"
+      "kanji": "二十一日",
+      "hiragana": "にじゅういちにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/22.png",
     "en": 
-      "Thursday",
+      "twenty-second",
     "ja": {
-      "kanji": "木曜日",
-      "hiragana": "もくようび"
+      "kanji": "二十二日",
+      "hiragana": "にじゅうににち"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
-    "en": "Friday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/23.png",
+    "en": "twenty-third",
     "ja": {
-      "kanji": "金曜日",
-      "hiragana": "きんようび"
+      "kanji": "二十三日",
+      "hiragana": "にじゅうさんにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
-    "en": "Saturday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/24.png",
+    "en": "twenty-fourth",
     "ja": {
-      "kanji": "土曜日",
-      "hiragana": "どようび"
+      "kanji": "二十四日",
+      "hiragana": "にじゅうよっか"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
-    "en": "Sunday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/25.png",
+    "en": "twenty-fifth",
     "ja": {
-      "kanji": "日曜日",
-      "hiragana": "にちようび"
+      "kanji": "二十五日",
+      "hiragana": "にじゅうごにち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-j0-mfnOxvCo/U0pTIzUS_DI/AAAAAAAAfEg/roMrkZvHU3U/s800/weekmark2_tue.png",
-    "en": "Tuesday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/26.png",
+    "en": "twenty-sixth",
     "ja": {
-      "kanji": "火曜日",
-      "hiragana": "かようび"
+      "kanji": "二十六日",
+      "hiragana": "にじゅうろくにち"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-lICiKIVFrUs/U0pTI-RW8HI/AAAAAAAAfEc/61_LFdC-j1k/s800/weekmark3_wed.png",
-    "en": "Wednesday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/27.png",
+    "en": "twenty-seventh",
     "ja": {
-      "kanji": "水曜日",
-      "hiragana": "すいようび"
+      "kanji": "二十七日",
+      "hiragana": "にじゅうしちにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-Xx7wIWgtXiQ/U0pTJ0l05sI/AAAAAAAAfFI/UMs4FL24QNU/s800/weekmark4_thu.png",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/28.png",
     "en": 
-      "Thursday",
+      "twenty-eighth",
     "ja": {
-      "kanji": "木曜日",
-      "hiragana": "もくようび"
+      "kanji": "二十八日",
+      "hiragana": "にじゅうはちにち"
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-fsRjPGzsI7g/U0pTJyhdDsI/AAAAAAAAfEw/2edvLoB2V-I/s800/weekmark5_fri.png",
-    "en": "Friday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/29.png",
+    "en": "twenty-ninth",
     "ja": {
-      "kanji": "金曜日",
-      "hiragana": "きんようび"
+      "kanji": "二十九日",
+      "hiragana": "にじゅうくにち"
     }
   },
   {
-    "image": "https://2.bp.blogspot.com/-JrzVjiibrkc/U0pTKN-nq9I/AAAAAAAAfE4/83Jcu_2hy68/s800/weekmark6_sat.png",
-    "en": "Saturday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/30.png",
+    "en": "thirtieth",
     "ja": {
-      "kanji": "土曜日",
-      "hiragana": "どようび"
+      "kanji": "三十日",
+      "hiragana": "さんじゅうにち"
     }
   },
   {
-    "image": "https://3.bp.blogspot.com/-i077yty20ps/U0pTKhBeoHI/AAAAAAAAfFA/VoE5US6c6FQ/s800/weekmark7_sun.png",
-    "en": "Sunday",
+    "image": "https://github.com/pet3rpan/media/blob/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/31.png",
+    "en": "thirty-first",
     "ja": {
-      "kanji": "日曜日",
-      "hiragana": "にちようび"
+      "kanji": "三十一日",
+      "hiragana": "さんじゅういちにち"
     }
   }
 ]
