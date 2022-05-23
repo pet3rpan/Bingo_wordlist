@@ -71,5 +71,185 @@
       "kanji": "九日",
       "hiragana": "ここのか"
     }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/10.png",
+    "en": 
+      "tenth",
+    "ja": {
+      "kanji": "十日",
+      "hiragana": "とおか"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/11.png",
+    "en": "eleventh",
+    "ja": {
+      "kanji": "十一日",
+      "hiragana": "じゅういちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/12.png",
+    "en": "twelfth",
+    "ja": {
+      "kanji": "十二日",
+      "hiragana": "じゅうににち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/13.png",
+    "en": "thirteenth",
+    "ja": {
+      "kanji": "十三日",
+      "hiragana": "じゅうさんにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/14.png",
+    "en": "fourteenth",
+    "ja": {
+      "kanji": "十四日",
+      "hiragana": "じゅうよっか"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/15.png",
+    "en": "fifteenth",
+    "ja": {
+      "kanji": "十五日",
+      "hiragana": "じゅうごにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/16.png",
+    "en": 
+      "sixteenth",
+    "ja": {
+      "kanji": "十六日",
+      "hiragana": "じゅうろくにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/17.png",
+    "en": "seventeenth",
+    "ja": {
+      "kanji": "十七日",
+      "hiragana": "じゅうしちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/18.png",
+    "en": "eighteenth",
+    "ja": {
+      "kanji": "十八日",
+      "hiragana": "じゅうはちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/19.png",
+    "en": "nineteenth",
+    "ja": {
+      "kanji": "十九日",
+      "hiragana": "じゅうくにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/20.png",
+    "en": "twentieth",
+    "ja": {
+      "kanji": "二十日",
+      "hiragana": "はつか"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/21.png",
+    "en": "twenty first",
+    "ja": {
+      "kanji": "二十一日",
+      "hiragana": "にじゅういちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/22.png",
+    "en": 
+      "twenty second",
+    "ja": {
+      "kanji": "二十二日",
+      "hiragana": "にじゅうににち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/23.png",
+    "en": "twenty third",
+    "ja": {
+      "kanji": "二十三日",
+      "hiragana": "にじゅうさんにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/24.png",
+    "en": "twenty fourth",
+    "ja": {
+      "kanji": "二十四日",
+      "hiragana": "にじゅうよっか"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/25.png",
+    "en": "twenty fifth",
+    "ja": {
+      "kanji": "二十五日",
+      "hiragana": "にじゅうごにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/26.png",
+    "en": "twenty sixth",
+    "ja": {
+      "kanji": "二十六日",
+      "hiragana": "にじゅうろくにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/27.png",
+    "en": "twenty seventh",
+    "ja": {
+      "kanji": "二十七日",
+      "hiragana": "にじゅうしちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/28.png",
+    "en": 
+      "twenty eighth",
+    "ja": {
+      "kanji": "二十八日",
+      "hiragana": "にじゅうはちにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/29.png",
+    "en": "twenty ninth",
+    "ja": {
+      "kanji": "二十九日",
+      "hiragana": "にじゅうくにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/30.png",
+    "en": "thirtieth",
+    "ja": {
+      "kanji": "三十日",
+      "hiragana": "さんじゅうにち"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/e01d8e7003e171e9727a04b3ce488852b2bce623/numbers/31.png",
+    "en": "thirty first",
+    "ja": {
+      "kanji": "三十一日",
+      "hiragana": "さんじゅういちにち"
+    }
   }
 ]
