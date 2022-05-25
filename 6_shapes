@@ -1,0 +1,64 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-goN_cGatjfs/X68acyHST5I/AAAAAAABcQI/ym-CrQV_3DQcMRxnXAOVvYGcrt_niXsWwCNcBGAsYHQ/s368/zukei_maru.png",
+    "en": "circle",
+    "ja": {
+      "kanji": "丸",
+      "hiragana": "まる"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-wb9TZweJUNE/VbnRtfTS1YI/AAAAAAAAwPk/Usv0AudzxGM/s800/tea_straight.png",
+    "en": "cross",
+    "ja": {
+      "kanji": "十字形",
+      "hiragana": "じゅうじけい"
+    }
+  },
+   {
+    "image": "https://1.bp.blogspot.com/-rgak3nkQ20Y/X68ac_xjMlI/AAAAAAABcQE/tHtslhkTT-sNQTF0HFjqh5jYB4xQ0KG8wCNcBGAsYHQ/s510/zukei_hishigata.png",
+    "en": "diamond",
+    "ja": {
+      "kanji": "ひし形",
+      "hiragana": "ひしがた"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-K07xLtmsn38/UZMs0QB59jI/AAAAAAAASIE/vsSpiB862iM/s800/fabric_mark_heart.png",
+    "en": "heart",
+    "ja": {
+      "kanji": "ハート",
+      "hiragana": "はーと"
+    }
+  },  {
+    "image": "https://1.bp.blogspot.com/-l4uHMaGtDLI/X68abkDlQhI/AAAAAAABcP4/Am8XiQ-2DMkK670p1-SXZCuJ5UflGaSSACNcBGAsYHQ/s423/zukei_chouhoukei.png",
+    "en": "rectangle",
+    "ja": {
+      "kanji": "長方形",
+      "hiragana": "ちょうほうけい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-O-52159eyrE/X68adxxQAFI/AAAAAAABcQY/IMmy3gvHG1Y3yWPppOs1-Qp_a7HZNqyngCNcBGAsYHQ/s368/zukei_shikakukei.png",
+    "en": "square",
+    "ja": {
+      "kanji": "正方形",
+      "hiragana": "せいほうけい"
+    }
+  },  {
+    "image": "https://3.bp.blogspot.com/-qK7K1R-BU6w/UZMs1ojUWRI/AAAAAAAASIk/2yj_43Urriw/s800/fabric_mark_star.png",
+    "en": "star",
+    "ja": {
+      "kanji": "星形",
+      "hiragana": "ほしがた"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-ocgsUh8yraY/X68adbg716I/AAAAAAABcQM/jZnGKgnWzxwLhwHXXwmjF88cMarYDiukwCNcBGAsYHQ/s351/zukei_sankakukei.png",
+    "en": "triangle",
+    "ja": {
+      "kanji": "三角形",
+      "hiragana": "さんかっけい"
+    }
+  }
+]
