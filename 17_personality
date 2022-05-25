@@ -1,0 +1,58 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-h0hQ_nViMUw/W3abX4nom8I/AAAAAAABOA0/KZAgbSIYNaASledLFJk5b836aAHhYBbVgCLcBGAs/s800/kids_sports_chanbara.png",
+    "en": "active",
+    "ja": {
+      "kanji": "活発な",
+      "hiragana": "かっぱつな"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-fk96H5vBbQQ/VCOJiUdEasI/AAAAAAAAmy0/O5ojk5J8WL4/s800/ranger_red.png",
+    "en": "brave",
+    "ja": {
+      "kanji": "勇敢な",
+      "hiragana": "ゆうかんな"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-R9uAiVefHUQ/W9RcGyjyqII/AAAAAAABPoI/cjoKQ6dtWsYGVVb67ZBocx5BVRGwEN8sACLcBGAs/s800/animal_akusyu_kawauso.png",
+    "en": "friendly",
+    "ja": {
+      "kanji": "人懐っこい",
+      "hiragana": "ひとなつっこい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-tn8Jad-dvuA/XzoLJTypFHI/AAAAAAABapQ/p03DpGXvl5sqTOgzmkPDfRDPFdwsNFTPQCNcBGAsYHQ/s1600/taiiku_boushi_tate.png",
+    "en": "funny",
+    "ja": {
+      "kanji": "面白い",
+      "hiragana": "おもしろい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Ot4ilpWgS4Y/V-kJj7W1IaI/AAAAAAAA-FM/sa4nN48y1WUfidcSakc6j0G5ZtKFhzfMACLcB/s800/miroku_bosatsu.png",
+    "en": "gentle",
+    "ja": {
+      "kanji": "穏やかな",
+      "hiragana": "おだやかな"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-3ivLLGvGsf4/UnyFuXTt1NI/AAAAAAAAaS4/h4SXw2waOp4/s800/densya_yuzuru.png",
+    "en": "kind",
+    "ja": {
+      "kanji": "親切な",
+      "hiragana": "しんせつな"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-GzBHCNZRQC4/UZM46o8xC7I/AAAAAAAASPk/Lc7mKnj6BdU/s800/chikarakobu.png",
+    "en": "strong",
+    "ja": {
+      "kanji": "強い",
+      "hiragana": "つよい"
+    }
+  }
+]
