@@ -1,0 +1,64 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-ZRkAB2UIqe0/UgSMXRltjEI/AAAAAAAAXCc/O12xepeoB4Y/s800/sweets_shortcake.png",
+    "en": "cake",
+    "ja": {
+      "kanji": "ケーキ",
+      "hiragana": "けーき"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-4SSFZUa0ab4/Vg57ivCMfhI/AAAAAAAAyzQ/Pm4eBFxAaOc/s800/sweets_fruit_pafe.png",
+    "en": "parfait",
+    "ja": {
+      "kanji": "パフェ",
+      "hiragana": "ぱふぇ"
+    }
+  },
+   {
+    "image": "https://2.bp.blogspot.com/-aRx-jJQHsqQ/UgSMWvuXqYI/AAAAAAAAXCM/whshJPMqjxY/s800/sweets_purin.png",
+    "en": "pudding",
+    "ja": {
+      "kanji": "プリン",
+      "hiragana": "ぷりん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-6HSVHA8mjBU/UaVVE5x_VtI/AAAAAAAAT_Q/kr7xVcqEb-A/s800/icecream1_vanilla.png",
+    "en": "ice cream",
+    "ja": {
+      "kanji": "アイス",
+      "hiragana": "あいす"
+    }
+  },  {
+    "image": "https://2.bp.blogspot.com/--M6N9BjlNmY/UYH5moApBvI/AAAAAAAARIE/szz6iBaP8R0/s600/kakigoori_red.png",
+    "en": "shaved ice",
+    "ja": {
+      "kanji": "かき氷",
+      "hiragana": "かきこおり"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-uYvzYEztOLg/UP5whovq8FI/AAAAAAAAK8U/IdMBUA3fIKg/s1600/valentine_chocolates.png",
+    "en": "chocolate",
+    "ja": {
+      "kanji": "チョコレート",
+      "hiragana": "ちょこれーと"
+    }
+  },  {
+    "image": "https://1.bp.blogspot.com/-1jJEMWXi5Us/UW4WUbiSTjI/AAAAAAAAQt4/ONgsvHGmNLs/s1600/sweets_popcorn.png",
+    "en": "popcorn",
+    "ja": {
+      "kanji": "ポップコーン",
+      "hiragana": "ぽっぷこーん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-l8RakbCu_6o/XhwqHGiEpvI/AAAAAAABW8A/xaKCGLw7yiEtfC_D7EPV77Q2EMG7zSEUQCNcBGAsYHQ/s1600/sweets_potatochips_bakuhatsu.png",
+    "en": "snack food",
+    "ja": {
+      "kanji": "お菓子",
+      "hiragana": "おかし"
+    }
+  }
+]
