@@ -1,0 +1,34 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-IwtVueGe8og/UYDRrxwkbjI/AAAAAAAAQ8w/gQnz-LWPv04/s600/origamikabuto_boy.png",
+    "en": "boy",
+    "ja": {
+      "kanji": "男の子",
+      "hiragana": "おとこのこ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-6oMrUI-mSqQ/U1jDSYRsckI/AAAAAAAAfjA/kUwUZsleg2I/s800/koinobori_girl.png",
+    "en": "girl",
+    "ja": {
+      "kanji": "女の子",
+      "hiragana": "おんなのこ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-co2NVTK6mNM/UO1imiGSkdI/AAAAAAAAKhM/TvoFalasJUo/s1600/catchball_friends.png",
+    "en": "friends",
+    "ja": {
+      "kanji": "友達",
+      "hiragana": "ともだち"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-wYj3ZA4sC9g/WWxNfy_9QHI/AAAAAAABFlc/p7e0RZlTFuA67icZiQJJgSgR7qVYlJmLgCLcBGAs/s800/teacher_man_student.png",
+    "en": "classmates",
+    "ja": {
+      "kanji": "同級生",
+      "hiragana": "どうきゅうせい"
+    }
+  }
+]
