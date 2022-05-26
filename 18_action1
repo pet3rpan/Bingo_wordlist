@@ -12,7 +12,7 @@
     "en": "run",
     "ja": {
       "kanji": "走る",
-      "hiragana": "はりる"
+      "hiragana": "はしる"
     }
   },
   {
@@ -20,7 +20,7 @@
     "en": "jump",
     "ja": {
       "kanji": "跳ぶ",
-      "hiragana": "とむ"
+      "hiragana": "とぶ"
     }
   },
   {
@@ -166,7 +166,8 @@
       "kanji": "聴く",
       "hiragana": "きく"
     }
-  },  {
+  },  
+  {
     "image": "https://2.bp.blogspot.com/-fk8d3EvZp7c/VJF-oms6taI/AAAAAAAAptA/wXMOHBDxyKk/s800/jisyo_jiten_boy.png",
     "en": "read",
     "ja": {
