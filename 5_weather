@@ -1,0 +1,51 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-93EsFuhpCKo/UNbgb6ZaNHI/AAAAAAAAJPE/ZIVJ0VqJSRM/s1600/mark_tenki_hare.png",
+    "en": "sunny",
+    "ja": {
+      "kanji": "晴れ",
+      "hiragana": "はれ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Kas7dqv2tBk/UNbgdBVs_wI/AAAAAAAAJPU/GGxpD21ZpjM/s1600/mark_tenki_kumori.png",
+    "en": "cloudy",
+    "ja": {
+      "kanji": "くもり",
+      "hiragana": "くもり"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-a148-_9uwxU/UNbgiw9khuI/AAAAAAAAJP4/c5FPmhaSKhc/s1600/mark_tenki_umbrella.png",
+    "en": "rainy",
+    "ja": {
+      "kanji": "雨",
+      "hiragana": "あめ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-3_9UVV8GT_4/UR2iwuHZcSI/AAAAAAAAMx8/dSxZ8XCFaes/s1600/tenki_snow.png",
+    "en": 
+      "snowy",
+    "ja": {
+      "kanji": "雪",
+      "hiragana": "ゆき"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-63k3umeTkvA/WzC9lGpB2DI/AAAAAAABM58/wfzOIlngZl4z9X8v9ZKBmCBaIcQIvoHjwCLcBGAs/s800/fuyu_samui_man.png",
+    "en": "cold",
+    "ja": {
+      "kanji": "寒い",
+      "hiragana": "さむい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-3JUTWdl83s8/WZVg55AlAtI/AAAAAAABGF0/e3D4PXBUt00Pq1XV5bt9d7PJucXp0w3lwCLcBGAs/s800/sick_atsui_woman.png",
+    "en": "hot",
+    "ja": {
+      "kanji": "暑い",
+      "hiragana": "あつい"
+    }
+  }
+]
