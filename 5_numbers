@@ -1,0 +1,307 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-7T-JzvxK5y0/UNO15R_x8oI/AAAAAAAAIvY/q6WNM45XVhE/s1600/number_1.png",
+    "en": "one",
+    "ja": {
+      "kanji": "一",
+      "hiragana": "いち"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-zYsWvZ2Dzek/UNO16JRlO-I/AAAAAAAAIvg/uZ8rFCv3Fko/s1600/number_2.png",
+    "en": "two",
+    "ja": {
+      "kanji": "二",
+      "hiragana": "に"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-YWUaTFjv2Lw/UNO17P9q_bI/AAAAAAAAIvo/Oiyc7TOC3V0/s1600/number_3.png",
+    "en": "three",
+    "ja": {
+      "kanji": "三",
+      "hiragana": "さん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-ACDt5s7fi5s/UNO18HREIRI/AAAAAAAAIvw/GQICsxU_jFw/s1600/number_4.png",
+    "en": 
+      "four",
+    "ja": {
+      "kanji": "四",
+      "hiragana": "よん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-wc3qqfFnInQ/UNO19KMHOCI/AAAAAAAAIv4/YJj9twvvI0g/s1600/number_5.png",
+    "en": "five",
+    "ja": {
+      "kanji": "五",
+      "hiragana": "ご"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-XihUIBuL8k4/UNO191EQDcI/AAAAAAAAIwA/Kn7VSW6ToTg/s1600/number_6.png",
+    "en": "six",
+    "ja": {
+      "kanji": "六",
+      "hiragana": "ろく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-tjYbwCQw4S8/UNO1-r_86nI/AAAAAAAAIwI/LiSlF5IDHkE/s1600/number_7.png",
+    "en": "seven",
+    "ja": {
+      "kanji": "七",
+      "hiragana": "しち"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-8SyWiLcpoWw/UNO2AHXdufI/AAAAAAAAIwU/fNc6cj-Qf5s/s1600/number_8.png",
+    "en": "eight",
+    "ja": {
+      "kanji": "八",
+      "hiragana": "はち"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-KEpe5ww6bIA/UNO2A04yTQI/AAAAAAAAIwY/yiMMHxRTXms/s1600/number_9.png",
+    "en": "nine",
+    "ja": {
+      "kanji": "九",
+      "hiragana": "きゅう"
+    }
+  },
+  {
+    "image": "numbers/10.png",
+    "en": "ten",
+    "ja": {
+      "kanji": "十",
+      "hiragana": "じゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "eleven",
+    "ja": {
+      "kanji": "十一",
+      "hiragana": "じゅういち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twelve",
+    "ja": {
+      "kanji": "十二",
+      "hiragana": "じゅうに"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "thirteen",
+    "ja": {
+      "kanji": "十三",
+      "hiragana": "じゅうさん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "fourteem",
+    "ja": {
+      "kanji": "十四",
+      "hiragana": "じゅうよん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "fifteen",
+    "ja": {
+      "kanji": "十五",
+      "hiragana": "じゅうご"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "sixteen",
+    "ja": {
+      "kanji": "十六",
+      "hiragana": "じゅうろく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "seventeen",
+    "ja": {
+      "kanji": "十七",
+      "hiragana": "じゅうしち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "eighteen",
+    "ja": {
+      "kanji": "十八",
+      "hiragana": "じゅうはち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "nineteen",
+    "ja": {
+      "kanji": "十九",
+      "hiragana": "じゅうきゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty",
+    "ja": {
+      "kanji": "二十",
+      "hiragana": "にじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-one",
+    "ja": {
+      "kanji": "二十一",
+      "hiragana": "にじゅういち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-two",
+    "ja": {
+      "kanji": "二十二",
+      "hiragana": "にじゅうに"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-three",
+    "ja": {
+      "kanji": "二十三",
+      "hiragana": "にじゅうさん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-four",
+    "ja": {
+      "kanji": "二十四",
+      "hiragana": "にじゅうよん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-five",
+    "ja": {
+      "kanji": "二十五",
+      "hiragana": "にじゅうご"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-six",
+    "ja": {
+      "kanji": "二十六",
+      "hiragana": "にじゅうろく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-seven",
+    "ja": {
+      "kanji": "二十七",
+      "hiragana": "にじゅうしち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-eight",
+    "ja": {
+      "kanji": "二十八",
+      "hiragana": "にじゅうはち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "twenty-nine",
+    "ja": {
+      "kanji": "二十九",
+      "hiragana": "にじゅうきゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "thirty",
+    "ja": {
+      "kanji": "三十",
+      "hiragana": "さんじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "fourty",
+    "ja": {
+      "kanji": "四十",
+      "hiragana": "よんじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "fifty",
+    "ja": {
+      "kanji": "五十",
+      "hiragana": "ごじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "sixty",
+    "ja": {
+      "kanji": "六十",
+      "hiragana": "ろくじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "seventy",
+    "ja": {
+      "kanji": "七十",
+      "hiragana": "ななじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "eighty",
+    "ja": {
+      "kanji": "八十",
+      "hiragana": "はちじゅう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "ninety",
+    "ja": {
+      "kanji": "九十",
+      "hiragana": "きゅうじゅう"
+    }
+  },
+  {
+    "image": "numbers/100.png",
+    "en": "one hundred",
+    "ja": {
+      "kanji": "百",
+      "hiragana": "ひゃく"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-tYr6u3ie0s4/UNw-x5hdEYI/AAAAAAAAJ0Y/dqcpRVu4vr4/s1600/number_0.png",
+    "en": "zero",
+    "ja": {
+      "kanji": "ゼロ",
+      "hiragana": "ぜろ"
+    }
+  }
+]
