@@ -1,0 +1,83 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-pGWuljt-gJI/VnE39nSY1-I/AAAAAAAA17s/-PTZhfFsCIo/s800/pose_genki03_man.png",
+    "en": "fine",
+    "ja": {
+      "kanji": "元気",
+      "hiragana": "げんき"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-StRU6IhETjo/U2srsWkavdI/AAAAAAAAf2g/NMuv2AzQrqQ/s800/hand_good.png",
+    "en": "good",
+    "ja": {
+      "kanji": "良い",
+      "hiragana": "よい"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-yFs47_b3ses/U2srwJAA9AI/AAAAAAAAf3k/bbyJ9E84gBw/s800/massage_hand.png",
+    "en": "great",
+    "ja": {
+      "kanji": "素晴らしい",
+      "hiragana": "すばらしい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-qzx9BMg9gxQ/UxbLz4cvIzI/AAAAAAAAeE4/QPfCtKS3UuI/s800/happy_woman6.png",
+    "en": 
+      "happy",
+    "ja": {
+      "kanji": "嬉しい",
+      "hiragana": "うれしい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-VuSfnK34XXc/YEGP_4K-tII/AAAAAAABdcs/hF7qpGt5cmc3CdtrTWA4ZIK3PKqOLmk2ACNcBGAsYHQ/s932/buranko_businessman_sad.png",
+    "en": "sad",
+    "ja": {
+      "kanji": "悲しい",
+      "hiragana": "かなしい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Yufb3bGjKCc/Wat3BaKeeeI/AAAAAAABGdU/0YCnkfdwipQYGvj9Li0EJpIsEybMXirVQCLcBGAs/s800/travel_family_tsukareru.png",
+    "en": "tired",
+    "ja": {
+      "kanji": "疲れた",
+      "hiragana": "つかれた"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-rsFzs1o6P9I/UZ2U8Wc_MBI/AAAAAAAATqk/yPV7YnI6Tz8/s800/inemuri.png",
+    "en": "sleepy",
+    "ja": {
+      "kanji": "眠い",
+      "hiragana": "ねむい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-fm10DkDb-jk/Udy6jWQ4PVI/AAAAAAAAWIQ/xqVY0qM4I4M/s800/busy_man.png",
+    "en": "busy",
+    "ja": {
+      "kanji": "忙しい",
+      "hiragana": "いそがしい"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-1PtCRUEXkQ8/XFe1SSIpSUI/AAAAAAABRXE/P91PhImVfnUGsNmu-Dfj-nm6u6JKnKHkwCLcBGAs/s800/kodomosyokudou_hungry_boy.png",
+    "en": "hungry",
+    "ja": {
+      "kanji": "おなか空いた",
+      "hiragana": "おなかすいた"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Bi5a1d_kChA/WlGns1O9sYI/AAAAAAABJdk/97YQORfZ4rMmZp4wcOZypaA9a0awUEYsgCLcBGAs/s800/drink_nodo_kawaita_man.png",
+    "en": "thirsty",
+    "ja": {
+      "kanji": "のど渇いた",
+      "hiragana": "のどかわいた"
+    }
+  }
+]
