@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://1.bp.blogspot.com/-VrPnQy99o0E/Xbo6CypQ8PI/AAAAAAABVtE/pbzRLhUuBxkD22a25r8_r4LlWDosaMz3gCNcBGAsYHQ/s1600/furit_mark12_ringo.png",
+    "image": "https://4.bp.blogspot.com/-8MT0p3kWlyY/ViipXt-VP4I/AAAAAAAAz2o/yr6fyfitIOY/s800/karaoke_kids.png",
     "en": "sing",
     "ja": {
       "kanji": "歌う",
@@ -8,7 +8,7 @@
     }
   },
   {
-    "image": "https://1.bp.blogspot.com/-f2lgUN7aVHA/Xbo6BWEK7LI/AAAAAAABVs0/tRVqjdMNTRwSdSsZ8Aeo_y7Z5AyR5t87QCNcBGAsYHQ/s1600/furit_mark08_banana.png",
+    "image": "https://4.bp.blogspot.com/-5QATj3L7fSI/VhHglzmCvII/AAAAAAAAzAU/_a1S2VOYECU/s800/school_rouka_hashiru.png",
     "en": "run",
     "ja": {
       "kanji": "走る",
@@ -131,16 +131,16 @@
     "image": "https://3.bp.blogspot.com/-KKPbDbr6lsU/UWgWiV8ztXI/AAAAAAAAQFg/olFw75vshzQ/s1600/sweets_applepie.png",
     "en": "travel",
     "ja": {
-      "kanji": "きのこ",
-      "hiragana": "きのこ"
+      "kanji": "旅行する",
+      "hiragana": "りょこうする"
     }
   },
   {
     "image": "https://3.bp.blogspot.com/-AhRHKz7vVpQ/U9y_jEhD0-I/AAAAAAAAjes/5mmdGBn-mHY/s800/nuts_mix.png",
     "en": "study",
     "ja": {
-      "kanji": "ナッツ",
-      "hiragana": "なっつ"
+      "kanji": "勉強する",
+      "hiragana": "べんきょうする"
     }
   },
   {
@@ -148,56 +148,56 @@
     "en": "teach",
     "ja": 
       {
-        "kanji": "玉ねぎ",
-        "hiragana": "たまねぎ"
+        "kanji": "教える",
+        "hiragana": "おしえる"
       }
   },
   {
     "image": "https://1.bp.blogspot.com/-rXRZ12eYzEo/Xbo6AAzKLQI/AAAAAAABVsk/7WtdZzNUW_AeTSvSs217L9IBFneXG8SwgCNcBGAsYHQ/s1600/furit_mark04_orange.png",
     "en": "speak",
     "ja": {
-      "kanji": "オレンジ",
-      "hiragana": "おれんじ"
+      "kanji": "話す",
+      "hiragana": "はなす"
     }
   },
   {
     "image": "https://1.bp.blogspot.com/-Bvc5pZeng7E/Xbo6ELIN37I/AAAAAAABVtU/LkBRnLxoi7IdHAoCEMjx4wFbzny6h5_VQCNcBGAsYHQ/s1600/furit_mark16_momo_cut.png",
     "en": "listen",
     "ja": {
-      "kanji": "桃",
-      "hiragana": "もも"
+      "kanji": "聴く",
+      "hiragana": "きく"
     }
   },
   {
     "image": "https://1.bp.blogspot.com/-3-03pZcUT0U/Xbo6CWAdpVI/AAAAAAABVs8/Dk6TvQhrYIom_PbAifyDph3Do_D6ZwnrQCNcBGAsYHQ/s1600/furit_mark10_pineapple.png",
     "en": "read",
     "ja": {
-      "kanji": "パイナップル",
-      "hiragana": "ぱいなっぷる"
+      "kanji": "読む",
+      "hiragana": "よむ"
     }
   },
   {
     "image": "https://3.bp.blogspot.com/-EiqKoF2kMTQ/UkJM5vVnb7I/AAAAAAAAYVU/tCuJxeQQiNE/s800/jagaimo_poteto.png",
     "en": "write",
     "ja": {
-      "kanji": "ジャガイモ",
-      "hiragana": "じゃがいも"
+      "kanji": "書く",
+      "hiragana": "かく"
     }
   },
   {
     "image": "https://3.bp.blogspot.com/-cce76d-O3zk/UkJM41i6WjI/AAAAAAAAYU8/QKWvtVyBdw4/s800/hourensou_spinach.png",
     "en": "talk",
     "ja": {
-      "kanji": "ほうれん草",
-      "hiragana": "ほうれんそう"
+      "kanji": "話す",
+      "hiragana": "はなす"
     }
   },
   {
     "image": "https://1.bp.blogspot.com/-4tb18CbLURQ/Xbo6CiDZvuI/AAAAAAABVtA/iEtk3y1asdI7TOKLzWCe_vIg3WrHUzmIQCNcBGAsYHQ/s1600/furit_mark11_ichigo.png",
     "en": "draw",
     "ja": {
-      "kanji": "イチゴ",
-      "hiragana": "いちご"
+      "kanji": "描く",
+      "hiragana": "えがく"
     }
   }
 ]
