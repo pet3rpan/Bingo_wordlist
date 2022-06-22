@@ -1,0 +1,82 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-I1bXhmXwLKk/VJF_QyNPkhI/AAAAAAAAp00/uoMPct9C4j8/s800/animalface_ushi.png",
+    "en": "beef",
+    "ja": {
+      "kanji": "牛肉",
+      "hiragana": "ぎゅうにく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-7iXiVjHj8MI/XTVpR2RlxiI/AAAAAAABT2k/9fNWh-dYk3cocH3pP_fUK8nIzmaEo832gCLcBGAs/s800/bird_niwatori_chabo.png",
+    "en": "chicken",
+    "ja": {
+      "kanji": "鶏肉",
+      "hiragana": "とりにく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-41u0_S90Ppg/U8XkAkPE-gI/AAAAAAAAipE/hIYV_yYIwKA/s800/animal_pig_buta.png",
+    "en": "pork",
+    "ja": {
+      "kanji": "豚肉",
+      "hiragana": "ぶたにく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-3p-EFktbcbM/WGnPTbrg1_I/AAAAAAABA3c/WLuSHkEjdhsW0PZBCx_42DscEoe8QYcRwCLcB/s800/hamburger_goods_bacon.png",
+    "en": "bacon",
+    "ja": {
+      "kanji": "ベーコン",
+      "hiragana": "べーこん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-aix6ReejJ3k/UVWMheWJAiI/AAAAAAAAPJM/eaTsdwhIJNU/s1600/kunsei_ham.png",
+    "en": "ham",
+    "ja": {
+      "kanji": "ハム",
+      "hiragana": "はむ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Usx3IgJOMeI/XexqUoddTKI/AAAAAAABWe4/kgic5jZ9es0bNkRn7Mw8SkgwcyB31XZ9QCNcBGAsYHQ/s1600/food_cheese_emmental.png",
+    "en": "cheese",
+    "ja": {
+      "kanji": "チーズ",
+      "hiragana": "ちーず"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-cN77T2K4eKE/UgsxbAazl6I/AAAAAAAAXW8/TlbeavXU8CU/s800/egg_white.png",
+    "en": "egg",
+    "ja": {
+      "kanji": "卵",
+      "hiragana": "たまご"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-foMnNs1_siY/XQjuCppFRNI/AAAAAAABTO4/o14dsTntWTIEWAArpS2EEOzOqL1OEqUlwCLcBGAs/s800/fish_yellow_perch.png",
+    "en": "fish",
+    "ja": {
+      "kanji": "魚",
+      "hiragana": "さかな"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-vyqUjX8jMYo/UnXnI6WdHeI/AAAAAAAAaIY/Eit0Fb0-Prw/s800/fish_salmon.png",
+    "en": "salmon",
+    "ja": {
+      "kanji": "サーモン",
+      "hiragana": "さーもん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-eU_OyQeEmFU/UnXnKHxZdoI/AAAAAAAAaI4/AtK1-8NE9UQ/s800/fish_tako.png",
+    "en": "octopus",
+    "ja": {
+      "kanji": "タコ",
+      "hiragana": "たこ"
+    }
+  }
+]
