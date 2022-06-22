@@ -1,0 +1,229 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-oMgIvKQd3t8/V2vXnEgy8zI/AAAAAAAA73k/e0EfqlNMyAY4pRGZipIM0rZBapAEQ3u4ACLcB/s800/building_house1.png",
+    "en": "house",
+    "ja": {
+      "kanji": "家",
+      "hiragana": "いえ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-NeJJyyh-zY0/VoX5lK7KY2I/AAAAAAAA2XA/L8cyR-9e0JY/s800/school_undoukai.png",
+    "en": "elementary school",
+    "ja": {
+      "kanji": "小学校",
+      "hiragana": "しょうがっこう"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-3QYR4YcCSoo/VoX5gzsHirI/AAAAAAAA2WQ/C_T6puPW2SA/s800/school_taiikusai.png",
+    "en": "junior high school",
+    "ja": {
+      "kanji": "中学校",
+      "hiragana": "ちゅうがっこう"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-t8-webWBL94/UZB7jgDTpVI/AAAAAAAASFk/qkmgqebrJnw/s800/tatemono_kouen.png",
+    "en": "park",
+    "ja": {
+      "kanji": "公園",
+      "hiragana": "こうえん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Qm_pqnd91J0/UgsvOiVlEbI/AAAAAAAAXSg/zWzxU5aTANg/s800/tosyokan_book_tana.png",
+    "en": "library",
+    "ja": {
+      "kanji": "図書室",
+      "hiragana": "としょしつ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-fQOCSaHHl_8/U7O61b5i-uI/AAAAAAAAiTo/3AOyCEbtMIA/s800/tatemono_hakubutsukan.png",
+    "en": "museum",
+    "ja": {
+      "kanji": "博物館",
+      "hiragana": "はくぶつかん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-8ToDX5ykuZ0/Xww_EVv5mgI/AAAAAAABaEA/R7_klqOpaqgeN4uudEv3Z3Fs8kbwIHdQACNcBGAsYHQ/s1600/building_yakuba_machi.png",
+    "en": "city hall",
+    "ja": {
+      "kanji": "役場",
+      "hiragana": "やくば"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-LSCklp2fqOI/Vkcaeten8KI/AAAAAAAA0cM/r_CPwIofBVQ/s800/dai_byouin2.png",
+    "en": "hospital",
+    "ja": {
+      "kanji": "病院",
+      "hiragana": "びょういん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-EioxBF-IIRE/Udy6jIAZtBI/AAAAAAAAWII/HsQUQdVQE4c/s800/bus_stand.png",
+    "en": "bus stop",
+    "ja": {
+      "kanji": "バス停",
+      "hiragana": "ばすてい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-7kqdZ9Ym9dg/W9RZITT9V4I/AAAAAAABPmo/5kviKVbFW9k3Ufdd7oSSfMJMtAMJZO-FQCLcBGAs/s800/eki_kanban_frame_text.png",
+    "en": "station",
+    "ja": {
+      "kanji": "駅",
+      "hiragana": "えき"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-nIi03bRk8ZU/Uab309oo0AI/AAAAAAAAUV8/HDgcrhhscgw/s800/keisatusyo.png",
+    "en": "police station",
+    "ja": {
+      "kanji": "警察署",
+      "hiragana": "けいさつしょ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-o2cmuN1Xq_o/UdYhLSfl7bI/AAAAAAAAV54/GeD8ymiWKMg/s608/tatemono_syoubousyo.png",
+    "en": "fire station",
+    "ja": {
+      "kanji": "消防署",
+      "hiragana": "しょうぼうしょ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-36DoK__Dc2U/UdYhMWMqTmI/AAAAAAAAV6E/ZeBGxLgVD9Q/s520/tatemono_yuubinkyoku.png",
+    "en": "post office",
+    "ja": {
+      "kanji": "郵便局",
+      "hiragana": "ゆううびんきょく"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-e_HXwrkJFwk/UyrZwNDYFdI/AAAAAAAAeYU/2POFOrkqxIc/s800/tatemono_honya.png",
+    "en": "bookstore",
+    "ja": {
+      "kanji": "書店",
+      "hiragana": "しょてん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-W3_J14U8zlc/XFPNNJlUNgI/AAAAAAABRVQ/Ct_K7WUkq38GyS7H4LNVEpEoj8v-midnACLcBGAs/s800/building_convenience_store3.png",
+    "en": "convenience store",
+    "ja": {
+      "kanji": "コンビニ",
+      "hiragana": "こんびに"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Unp3L2OEOK8/U5hUNv4QdwI/AAAAAAAAhF8/twyOUqv6eh4/s800/tatemono_department_store.png",
+    "en": "department store",
+    "ja": {
+      "kanji": "デパート",
+      "hiragana": "でぱーと"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-4gdEJ9FVR6g/UZB7kFiKIaI/AAAAAAAASFw/prxxJySt8cc/s800/tatemono_restaurant.png",
+    "en": "restaurant",
+    "ja": {
+      "kanji": "レストラン",
+      "hiragana": "れすとらん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-ShmtBFzbO4w/XIJBQ4ZJnYI/AAAAAAABRzI/MDjiyrGETJkhLeXT7beqEu7U9k8_BBPTgCLcBGAs/s800/building_shoping_supermarket.png",
+    "en": "supermarket",
+    "ja": {
+      "kanji": "スーパー",
+      "hiragana": "すーぱー"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-GfeOm5QlGqw/UYmssqYJWQI/AAAAAAAARYI/SF-uakPveVM/s800/tatemono_hanaya.png",
+    "en": "flower shop",
+    "ja": 
+      {
+        "kanji": "花屋",
+        "hiragana": "はなや"
+      }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-0d8Itho2V2w/VwIgTvwLzoI/AAAAAAAA5ak/iOAZK3E9goMbTXVjUqYHrVdQ9eix2TEBA/s800/landmark_neuschwanstein.png",
+    "en": "castle",
+    "ja": {
+      "kanji": "城",
+      "hiragana": "しろ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-2WeAA5fgXR0/UdYhKAo1BTI/AAAAAAAAV5g/XDIQdxNIRNI/s654/tatemono_jinja.png",
+    "en": "shrine",
+    "ja": {
+      "kanji": "神社",
+      "hiragana": "じんじゃ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/--PL6hlrPIPo/Uku_GiUXI6I/AAAAAAAAYuI/aOQxoDd6Oy8/s800/kankou_kinkakuji.png",
+    "en": "temple",
+    "ja": {
+      "kanji": "寺",
+      "hiragana": "てら"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-Ov2t1LF6laE/UYDkHzAMHQI/AAAAAAAAQ-w/oVU1LesXaU0/s600/yuenchi.png",
+    "en": "amusement park",
+    "ja": {
+      "kanji": "遊園地",
+      "hiragana": "ゆうえんち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-RNx28QlwGgQ/VGLLDNXt-yI/AAAAAAAAoto/mpbZo8JJMJg/s800/building_suizokukan.png",
+    "en": "aquarium",
+    "ja": {
+      "kanji": "水族館",
+      "hiragana": "すいぞくかん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-SMGfuJuHNS0/UbVu8krrjTI/AAAAAAAAUj8/-13aWo4Y7p0/s800/baseball_stadium.png",
+    "en": "stadium",
+    "ja": {
+      "kanji": "スタジアム",
+      "hiragana": "すたじあむ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-_ItSdd9RH3A/UnyF8q9-t3I/AAAAAAAAaXk/jpUB-4C6KQY/s800/zoo_doubutsuen.png",
+    "en": "zoo",
+    "ja": {
+      "kanji": "動物園",
+      "hiragana": "どうぶつえん"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-MER0S7qAPzQ/V2ub-MdQnJI/AAAAAAAA7tw/613Oz_ddeaYokO5JVKi7kvIGwW32C67XACLcB/s800/landmark_golden_gate_bridge.png",
+    "en": "bridge",
+    "ja": 
+      {
+        "kanji": "橋",
+        "hiragana": "はし"
+      }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-nK-1C4ryQow/XVKfrgi5Y4I/AAAAAAABUDo/VX2oppeXX4woocOe4txP4CNMJJhMpkzDACLcBGAs/s1600/car_douro_kousaten_shingou.png",
+    "en": "street",
+    "ja": 
+      {
+        "kanji": "通り",
+        "hiragana": "とおり"
+      }
+  }
+]
