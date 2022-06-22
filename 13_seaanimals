@@ -1,0 +1,66 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-u0AiyPNqSsQ/VXOUoNjbfhI/AAAAAAAAuM8/R5H8c7jwcaE/s800/whale_09_minkukujira.png",
+    "en": "whale",
+    "ja": {
+      "kanji": "クジラ",
+      "hiragana": "くじら"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-j9FEqo_Sdn8/UnXnJRXq2NI/AAAAAAAAaIk/ZRcR8PmVYf8/s800/fish_shark.png",
+    "en": "shark",
+    "ja": {
+      "kanji": "サメ",
+      "hiragana": "さめ"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Pa6UIB7KEr0/UNvsoxs5D_I/AAAAAAAAJqs/7Lwo1P2MKTA/s1600/animal_dolphin.png",
+    "en": "dolphin",
+    "ja": {
+      "kanji": "イルカ",
+      "hiragana": "いるか"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-P02kL_wB6aU/UZB6ScT-evI/AAAAAAAASAc/v8bgEGQqR-I/s800/animal_umigame.png",
+    "en": "sea turtle",
+    "ja": {
+      "kanji": "ウミガメ",
+      "hiragana": "うみがけ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-foMnNs1_siY/XQjuCppFRNI/AAAAAAABTO4/o14dsTntWTIEWAArpS2EEOzOqL1OEqUlwCLcBGAs/s800/fish_yellow_perch.png",
+    "en": "fish",
+    "ja": {
+      "kanji": "魚",
+      "hiragana": "さかな"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-cyF7po_IL_4/WYAx9EHo9DI/AAAAAAABFxA/zuPU_uVv-EIQm5uPgwgl4nGyDO1ZOysRwCLcBGAs/s800/character_fish_ika.png",
+    "en": "squid",
+    "ja": {
+      "kanji": "イカ",
+      "hiragana": "いか"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-fIDkYYbfqWc/WYlXpOn6RHI/AAAAAAABF68/9d4s4MBxWakSuHu-EEpPbpy5sV2GBceYQCLcBGAs/s800/fish_character_kurage.png",
+    "en": "jellyfish",
+    "ja": {
+      "kanji": "クラゲ",
+      "hiragana": "くらげ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Z30ny2hRXL0/VJF_frxwJHI/AAAAAAAAp3U/Ey-Jvojlzs0/s800/ebi_aka.png",
+    "en": "shrimp",
+    "ja": {
+      "kanji": "エビ",
+      "hiragana": "えび"
+    }
+  }
+]
