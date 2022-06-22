@@ -1,0 +1,35 @@
+[
+  {
+    "image": "https://github.com/pet3rpan/media/blob/d5f39035c40f01298fad4fbd083497d70b0836dd/PDimage/23%20prep%20by.PNG",
+    "en": "by",
+    "ja": {
+      "kanji": "となり",
+      "hiragana": "となり"
+    }
+  },
+  {
+    "image": "https://github.com/pet3rpan/media/blob/d5f39035c40f01298fad4fbd083497d70b0836dd/PDimage/23%20prep%20in.PNG",
+    "en": "in",
+    "ja": {
+      "kanji": "中",
+      "hiragana": "なか"
+    }
+  },
+  {
+    "image": "https://github.com/pet3rpan/media/blob/d5f39035c40f01298fad4fbd083497d70b0836dd/PDimage/23%20prep%20on.PNG",
+    "en": "on",
+    "ja": {
+      "kanji": "上",
+      "hiragana": "うえ"
+    }
+  },
+  {
+    "image": "https://github.com/pet3rpan/media/blob/d5f39035c40f01298fad4fbd083497d70b0836dd/PDimage/23%20prep%20under.PNG",
+    "en": 
+      "under",
+    "ja": {
+      "kanji": "下",
+      "hiragana": "した"
+    }
+  }
+]
