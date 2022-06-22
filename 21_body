@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-PftCnIlpHmk/ViipSVvcokI/AAAAAAAAz0k/AlK8YitEQzs/s800/eto_saru_banana.png",
+    "en": "head",
+    "ja": {
+      "kanji": "頭",
+      "hiragana": "あたま"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-OwZV0x1FJrs/UNQrdb_uppI/AAAAAAAAI7U/-iJhiSxVI7Q/s1600/mark_face_smile.png",
+    "en": "face",
+    "ja": {
+      "kanji": "顔",
+      "hiragana": "かお"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-quN2By6Q1Do/WTtYu31o5mI/AAAAAAABExc/lN3oyAP-JDEteeg9LMUoPaxOKscDpCMfgCLcB/s800/chichinohi_oyako_katamomi_boy.png",
+    "en": "shoulder",
+    "ja": {
+      "kanji": "肩",
+      "hiragana": "かた"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-GqebR8ly-Bk/UZ2VFGwSI0I/AAAAAAAATuM/fOI7g0isJDw/s800/kyosyu_woman.png",
+    "en": "hand",
+    "ja": {
+      "kanji": "手",
+      "hiragana": "て"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-f7g1e94OQaw/W9595mQNbGI/AAAAAAABP5w/bEBmhUYSis4T4drV1rcsbawkpb-pGyCKwCLcBGAs/s800/sports_soccer_hiza_sliding.png",
+    "en": "knee",
+    "ja": {
+      "kanji": "膝",
+      "hiragana": "ひざ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-H3AYVD3jV98/VahRiv9GDCI/AAAAAAAAvsA/98KgGPXer28/s800/eye14_circle2.png",
+    "en": "eye",
+    "ja": {
+      "kanji": "目",
+      "hiragana": "め"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-To8tA3yiE0k/VJF_QawmPdI/AAAAAAAAp0w/oihka8c4k90/s800/animalface_usagi.png",
+    "en": "ear",
+    "ja": {
+      "kanji": "耳",
+      "hiragana": "みみ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-9KJvcWVrtgc/XWS5th-DtyI/AAAAAAABUWI/KO3FJAFOGBkJ1Et5cyfLmexijfPmnupBwCLcBGAs/s1600/kodai_mammoth_okoru.png",
+    "en": "nose",
+    "ja": {
+      "kanji": "鼻",
+      "hiragana": "はな"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-S7vo93nCu3Y/U32NODl5dKI/AAAAAAAAgqs/H0ntA-OiPPo/s800/body_kuchi.png",
+    "en": "mouth",
+    "ja": {
+      "kanji": "口",
+      "hiragana": "くち"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Rj9cvtRA-tE/WwofVQHvqMI/AAAAAAABMYU/67K5rLt4JAwcqZgJWELBQN0yLErmbtWSgCLcBGAs/s800/tooth_ha_pikapika.png",
+    "en": "teeth",
+    "ja": {
+      "kanji": "歯",
+      "hiragana": "は"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-PiVkqmGVJF8/V2vX49347aI/AAAAAAAA76A/9ure2L0rbb41MTaf4y70I9B0AQtSfIMjQCLcB/s800/figure_ashi_hipparu.png",
+    "en": "leg",
+    "ja": {
+      "kanji": "足",
+      "hiragana": "あし"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-6iNNegHqh5E/VRUP4g-9tPI/AAAAAAAAsc8/d0ZVNWglGmw/s800/body_foot_side.png",
+    "en": "toe",
+    "ja": {
+      "kanji": "爪先",
+      "hiragana": "つまさき"
+    }
+  }
+]
