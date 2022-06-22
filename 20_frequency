@@ -1,0 +1,34 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-h3Dm1-xBF4w/VahR1FZf_7I/AAAAAAAAvxo/FiDtQnNNH44/s800/star5.png",
+    "en": "always",
+    "ja": {
+      "kanji": "いつも",
+      "hiragana": "いつも"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-j1vZQusrBaw/VahR07Z2aZI/AAAAAAAAvxk/7H34qRyQWRo/s800/star4.png",
+    "en": "usually",
+    "ja": {
+      "kanji": "普段",
+      "hiragana": "ふだん"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-yhI5D6JKg40/VahR0Yu-ezI/AAAAAAAAvxc/g2oHSvAJLoI/s800/star2.png",
+    "en": "sometimes",
+    "ja": {
+      "kanji": "ときどき",
+      "hiragana": "ときどき"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-XMlfrhEQmqw/VahRzScpg1I/AAAAAAAAvxE/xr8otNa-7Yk/s800/star0.png",
+    "en": "never",
+    "ja": {
+      "kanji": "全然しません",
+      "hiragana": "ぜんぜんしません"
+    }
+  }
+]
