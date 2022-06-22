@@ -1,0 +1,59 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-AcJ-4QdcaxI/W-VEikkpiTI/AAAAAAABQGc/Q1xaGurKmBIYmrMBLXU3WhxD2zpJSZ0aQCLcBGAs/s800/smartphone_map_app_man.png",
+    "en": "go",
+    "ja": {
+      "kanji": "行く",
+      "hiragana": "いく"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-ZtjhvDY5HS8/Ws2wAMPcADI/AAAAAAABLZ4/zAzptihV9lIvFilrZFsI7qTu5PzjP3cbgCLcBGAs/s800/shingou_led_yajirushi3_t.png",
+    "en": "staright",
+    "ja": {
+      "kanji": "真っすぐに",
+      "hiragana": "まっすぐに"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-eZlLITNwdVA/VCkbxupqBvI/AAAAAAAAnMk/2v1JHU7H8DQ/s800/yajirushi09_chokkaku.png",
+    "en": "turn",
+    "ja": {
+      "kanji": "曲がる",
+      "hiragana": "まがる"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-cOfoKUnZRNU/Ws2wBMGokOI/AAAAAAABLZ8/lm3Bt_ItWSgU0v2t2KFHxKC1IQXJ12DxQCLcBGAs/s800/shingou_led_yajirushi4_r.png",
+    "en": 
+      "right",
+    "ja": {
+      "kanji": "右",
+      "hiragana": "みぎ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-DPjB3tJkZTo/Ws2wALHghmI/AAAAAAABLZ0/ByuqMjD0cEEbezV39cg-ikr9ThJbErBnACLcBGAs/s800/shingou_led_yajirushi2_l.png",
+    "en": "left",
+    "ja": {
+      "kanji": "左",
+      "hiragana": "ひだり"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-J0ndBrAVtNM/Wn1WBlE0alI/AAAAAAABKHE/N977kGZO0FoDzPcJuXO-WMmk4QIOwRPzwCLcBGAs/s800/map_open.png",
+    "en": "block",
+    "ja": {
+      "kanji": "街区",
+      "hiragana": "がいく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-MJspTF-hLpg/XobTfFFodxI/AAAAAAABYJc/GiyGofxYEF8XF5X5qpVeQVkf8otLaXlKACNcBGAsYHQ/s1600/window_miru_man.png",
+    "en": "see",
+    "ja": {
+      "kanji": "見る（目に入る）",
+      "hiragana": "みる（めにはいる）"
+    }
+  }
+]
