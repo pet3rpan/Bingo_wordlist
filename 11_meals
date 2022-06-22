@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-xmaHVIh8pg0/UzALIlF7QyI/AAAAAAAAeeo/BCBd4xPBnx4/s800/syokuji1_chousyoku.png",
+    "en": "breakfast",
+    "ja": {
+      "kanji": "朝食",
+      "hiragana": "ちょうしょく"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-kJkkYtxmvps/UzALJaU5xkI/AAAAAAAAefI/k0F3lNi8Ocg/s800/syokuji3_chusyoku.png",
+    "en": "lunch",
+    "ja": {
+      "kanji": "昼食",
+      "hiragana": "ちゅうしょく"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-LNXBjG5hH4o/UzALJ6meooI/AAAAAAAAefA/WFi63Mb8SkA/s800/syokuji4_yusyoku.png",
+    "en": "dinner",
+    "ja": {
+      "kanji": "夕食",
+      "hiragana": "ゆうしょく"
+    }
+  }
+]
