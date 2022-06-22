@@ -1,0 +1,98 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-Wf-AF5UoK6g/U-8HQ9OTyWI/AAAAAAAAlAE/o3VK0JEIim4/s800/sabaku.png",
+    "en": "desert",
+    "ja": {
+      "kanji": "砂漠",
+      "hiragana": "さばく"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-4FT-kB5z6AI/VpjBpDioYRI/AAAAAAAA25c/_v1gjUlwpIo/s1600/bg_natural_mori.jpg",
+    "en": "forest",
+    "ja": {
+      "kanji": "森",
+      "hiragana": "もり"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-4Ng1gNmOhAM/V2ucIdYoIAI/AAAAAAAA7vs/trvOgTP7V30aBo8mAV-d5xlcTyaQHCq3gCLcB/s800/mujintou_kojima.png",
+    "en": "island",
+    "ja": {
+      "kanji": "島",
+      "hiragana": "しま"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-y7uMKdeTrXs/UpGGZ9AM7NI/AAAAAAAAa4o/l9sYwDXOFVM/s800/mizuumi.png",
+    "en": "lake",
+    "ja": {
+      "kanji": "湖",
+      "hiragana": "みずうみ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-bpRAktDRy3Y/WGnPYN1nibI/AAAAAAABA5c/4UKn82O-hx0npPoYWVqcFXlUALmmLCmhACLcB/s800/mountain_yama.png",
+    "en": "mountain",
+    "ja": {
+      "kanji": "山",
+      "hiragana": "やま"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-J3MxFWPBrjA/U-8GZg7jtmI/AAAAAAAAk4Q/w_Kq_SFuvx0/s800/ike.png",
+    "en": "pond",
+    "ja": {
+      "kanji": "池",
+      "hiragana": "いけ"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-yVOmc871O5g/UpGGYyWFqoI/AAAAAAAAa4g/_QMme7XMRo0/s800/kawa.png",
+    "en": "river",
+    "ja": {
+      "kanji": "川",
+      "hiragana": "かわ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-MJ9kxWWrLg4/XLAcxVsOVCI/AAAAAAABSS0/lUn-55yy1wg182e8UZGGP5Xy8cwNrLYtgCLcBGAs/s800/bg_chiheisen_green.jpg",
+    "en": "savanna",
+    "ja": {
+      "kanji": "サバナ",
+      "hiragana": "さばな"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-3J8MukWVApM/XLAcyuflY4I/AAAAAAABSTA/3IxtQnJKJH48h42rvdg2tGrQEvsc4QxrQCLcBGAs/s800/bg_ocean_suiheisen.jpg",
+    "en": "sea",
+    "ja": {
+      "kanji": "海",
+      "hiragana": "うみ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-lVv97_Lx994/WsCWisPqRDI/AAAAAAABLGU/22BNjbkXpCwwYPEad2KlIis0BCGDlzjeQCLcBGAs/s800/ike_numa.png",
+    "en": "wetlands",
+    "ja": {
+      "kanji": "湿地",
+      "hiragana": "しっち"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Bf5saGqHN7s/U9y_ZUOiYCI/AAAAAAAAjcE/ZM0g9Ou-L5c/s800/flower_seichou8.png",
+    "en": "flower",
+    "ja": {
+      "kanji": "花",
+      "hiragana": "はな"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-RBOB7X_V890/U3v3L53EXuI/AAAAAAAAgpQ/FGwb-omqp1A/s800/tree_seichou09.png",
+    "en": "tree",
+    "ja": {
+      "kanji": "木",
+      "hiragana": "き"
+    }
+  }
+]
