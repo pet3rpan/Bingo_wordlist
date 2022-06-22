@@ -1,0 +1,34 @@
+[
+  {
+    "image": "https://4.bp.blogspot.com/-kOId1YDnc3I/UnXm-HPW4GI/AAAAAAAAaEg/RpwNai27PQI/s800/mushi_ari.png",
+    "en": "ant",
+    "ja": {
+      "kanji": "蟻",
+      "hiragana": "あり"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-HbJyxwgZWRc/XDXbpPhL2WI/AAAAAAABRCg/n63YPBIH998Edeha0QhwA6qDCkw-L7z0QCLcBGAs/s800/bug_namiageha_agehachouu.png",
+    "en": "butterfly",
+    "ja": {
+      "kanji": "蝶",
+      "hiragana": "ちょう"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-WOod5v8Xo34/U0pSz4eZ7xI/AAAAAAAAe9I/PKGE1eDKBHY/s800/bug_syouryou_batta.png",
+    "en": "grasshopper",
+    "ja": {
+      "kanji": "バッタ",
+      "hiragana": "ばった"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-TKWGbaJJ90M/XdttRtiUrMI/AAAAAAABWGQ/2BsrNLTnqZESlVQZ_W9aDNG9-mzYtpRbgCNcBGAsYHQ/s1600/bug_character_kumo_black.png",
+    "en": "spider",
+    "ja": {
+      "kanji": "クモ",
+      "hiragana": "くも"
+    }
+  }
+]
