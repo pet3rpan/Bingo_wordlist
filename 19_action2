@@ -1,0 +1,123 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-FnaoyDpE-9U/UP5wcwsbq8I/AAAAAAAAK7E/8ioks5abwZU/s1600/heart_blur.png",
+    "en": "like",
+    "ja": {
+      "kanji": "好く",
+      "hiragana": "すく"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/--8kLjEefP6w/W9RcLMAg5gI/AAAAAAABPo4/HukO5WSmB1IAPVAQdf2tZEUsRsDWvgfpwCLcBGAs/s800/butsuyoku_woman.png",
+    "en": "want",
+    "ja": {
+      "kanji": "欲しい",
+      "hiragana": "ほしい"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-rLpV2AE18-Y/VUIJklrxvsI/AAAAAAAAtWQ/QuDiHxdPQdc/s800/school_class.png",
+    "en": "look",
+    "ja": {
+      "kanji": "見る",
+      "hiragana": "みる"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Qb-wrq79STc/YHQQON7TPoI/AAAAAAABdok/TTDgsdk1HM85rGb4o9oo-OG5oCz-iuhRQCNcBGAsYHQ/s883/shopping_shufu.png_woman.png",
+    "en": "see",
+    "ja": {
+      "kanji": "目に入る",
+      "hiragana": "めにはいる"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-xhSxW2C_x0Q/W6XJeVat_uI/AAAAAAABPDM/sMjnt99_ELklDEgLDyaJHE_MAN-4vhT2QCLcBGAs/s800/soccer_boy_brazil_asia.png",
+    "en": "play",
+    "ja": {
+      "kanji": "するやる",
+      "hiragana": "するやる"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-m61VzPBziYE/VeKHCpLqiwI/AAAAAAAAxIs/tRr_qzZpg6o/s800/pen_syuuji.png",
+    "en": "practice",
+    "ja": {
+      "kanji": "練習する",
+      "hiragana": "れんしゅうする"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Ll8U4_PAKVQ/VJ6XxmeZfQI/AAAAAAAAqP4/poV02ZRzvd4/s800/text_yattemiyou.png",
+    "en": "try",
+    "ja": {
+      "kanji": "試みる",
+      "hiragana": "こころみる"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-rw633xG88TQ/VIKndaymoQI/AAAAAAAApcQ/ZVjsIbVpXLE/s800/christmas_family.png",
+    "en": "enjoy",
+    "ja": 
+      {
+        "kanji": "楽しむ",
+        "hiragana": "たのしむ"
+      }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-ggd8O3QOv-A/Wn1Za-cA4TI/AAAAAAABKME/iiPE_nX8zJE6HJ7S1frHqC1i2KPA0JSYACLcBGAs/s800/bug_mushitori_boy.png",
+    "en": "get",
+    "ja": {
+      "kanji": "ゲットする",
+      "hiragana": "げっとする"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-OUfE71xEKGA/XwMZa7dcpfI/AAAAAAABZ4c/hYdrsLzszEUMuM_lAWpssh-vrCA031gMQCNcBGAsYHQ/s1600/family_shopping_bag_eco_boy.png",
+    "en": "have",
+    "ja": {
+      "kanji": "持つ",
+      "hiragana": "もつ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-DtHM6EhvBs0/U0pTVAqwQmI/AAAAAAAAfI0/DTj-OSk1dFo/s800/nendo_girl.png",
+    "en": "make",
+    "ja": {
+      "kanji": "作る",
+      "hiragana": "つくる"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-qMTjibkyRbo/WFo-02D7bBI/AAAAAAABAik/DWHWfaI-37A8WMNfBo0CvmNlzyjkwojUgCLcB/s800/gake_tasukeru.png",
+    "en": "help",
+    "ja": {
+      "kanji": "助ける手伝う",
+      "hiragana": "たすけるてつだう"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-4e9AuY_mu2o/WzC-1qDpLRI/AAAAAAABNFI/583oQu1BrRIbCafj6ffadZ7gIS0nayudgCLcBGAs/s800/skate_speed_pursuit.png",
+    "en": "join",
+    "ja": {
+      "kanji": "参加する",
+      "hiragana": "さんかする"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-nhg1jF-a_CA/Vtofq1u7wiI/AAAAAAAA4ZU/dwLjl-8ybbM/s800/house_people3_family.png",
+    "en": "live",
+    "ja": {
+      "kanji": "住む",
+      "hiragana": "すむ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-nMjuko9tXGc/Ut0BV0jJHkI/AAAAAAAAdW0/tRb8t3PEY28/s800/kangaeruhito.png",
+    "en": "think",
+    "ja": {
+      "kanji": "考える",
+      "hiragana": "かんがえる"
+    }
+  }
+]
