@@ -1,0 +1,83 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-9SnfJuvDAYM/VkLHTepRf0I/AAAAAAAA0Us/zq118HPX7Us/s800/birthdayparty_girl2.png",
+    "en": "birthday",
+    "ja": {
+      "kanji": "誕生日",
+      "hiragana": "たんじょうび"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-xeK-sisKsyI/U9y_xtZ8oPI/AAAAAAAAjio/GjFTkLRG_ps/s800/syukujitsu01_ganjitsu.png",
+    "en": "New Year's Day",
+    "ja": {
+      "kanji": "元日",
+      "hiragana": "がんじつ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-HkohqHrBbJI/VN3vDch8otI/AAAAAAAAris/0NgCSPANHss/s800/hinamatsuri_odairi_ohina.png",
+    "en": "Doll's Festival",
+    "ja": {
+      "kanji": "ひな祭り",
+      "hiragana": "ひなまつり"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-nU3ig7hEKFI/UZRWkIdaecI/AAAAAAAASu8/8Z6HdO9tOEc/s800/aprilfool_boy.png",
+    "en": "April Fool's Day",
+    "ja": 
+      {
+        "kanji": "エイプリルフール",
+        "hiragana": "えいぷりるふーる"
+      }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-jSZCmA4c0HM/U1jDPZIUTyI/AAAAAAAAfiM/SuJUqvyhseI/s800/gogatsubyou_kids.png",
+    "en": "Children's Day",
+    "ja": {
+      "kanji": "こどもの日",
+      "hiragana": "こどものひ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-GOoVmunbqQw/UYPD7u4FbfI/AAAAAAAARNo/9gC3bKPT4Zk/s600/sasanoha_bg.png",
+    "en": "Star Festival",
+    "ja": {
+      "kanji": "七夕",
+      "hiragana": "たなばた"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-3NfDC9mhx44/UYntI0k7tcI/AAAAAAAARd0/gTvMI7-OQt4/s800/hanabi_girl.png",
+    "en": "fireworks",
+    "ja": {
+      "kanji": "花火",
+      "hiragana": "はなび"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-9oBSS70g7Eo/W7WcbfIdafI/AAAAAAABPSU/ov5D2yFQMTIwU3aMY_fdWMrTJHTD7bjnQCLcBGAs/s800/halloween_mark_pumpkin.png",
+    "en": "Halloween",
+    "ja": {
+      "kanji": "ハロウィン",
+      "hiragana": "はろうぃん"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-jbtKhqWSI6A/VIKm8h63uAI/AAAAAAAApaI/ldtiaSSV104/s800/christmas_mark4_tree.png",
+    "en": "Christmas",
+    "ja": {
+      "kanji": "クリスマス",
+      "hiragana": "くりすます"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-in04qzs4RlQ/UYzZdO6l9eI/AAAAAAAAR6Q/rbSRaPRqpD4/s800/toshikoshisoba.png",
+    "en": "New Year's Eve",
+    "ja": {
+      "kanji": "大晦日",
+      "hiragana": "おおみそか"
+    }
+  }
+]
