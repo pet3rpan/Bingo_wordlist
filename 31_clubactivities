@@ -1,0 +1,130 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20baseball.PNG",
+    "en": "baseball team",
+    "ja": {
+      "kanji": "野球チーム",
+      "hiragana": "やきゅうちーむ"
+    }
+  },
+   {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20softball.PNG",
+    "en": "softball team",
+    "ja": {
+      "kanji": "ソフトボールチーム",
+      "hiragana": "そふとぼーるちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20basketball.PNG",
+    "en": "basketball team",
+    "ja": {
+      "kanji": "バスケットボールチーム",
+      "hiragana": "ばすけっとぼーるちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20volleyball.PNG",
+    "en": "volleyball team",
+    "ja": {
+      "kanji": "バレーボールチーム",
+      "hiragana": "ばれーぼーるちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20soccer.PNG",
+    "en": "soccer team",
+    "ja": {
+      "kanji": "サッカーチーム",
+      "hiragana": "さっかーちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20tennis.PNG",
+    "en": "tennis team",
+    "ja": {
+      "kanji": "テニスチーム",
+      "hiragana": "てにすちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20table%20tennis.PNG",
+    "en": "table tennis team",
+    "ja": {
+      "kanji": "卓球チーム",
+      "hiragana": "たっきゅうちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20badminton.PNG",
+    "en": "badminton team",
+    "ja": {
+      "kanji": "バドミントンチーム",
+      "hiragana": "ばどみんとんちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20track.PNG",
+    "en": "track and field team",
+    "ja": {
+      "kanji": "陸上チーム",
+      "hiragana": "りくじょうちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20gymnastics.PNG",
+    "en": "gymnastics team",
+    "ja": {
+      "kanji": "体操チーム",
+      "hiragana": "たいそうちーむ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20art.PNG",
+    "en": "art club"
+    "ja": {
+      "kanji": "美術部",
+      "hiragana": "びじゅつぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20drama.PNG",
+    "en": "drama club
+    "ja": {
+      "kanji": "演劇部",
+      "hiragana": "えんげきぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20broadcasting.PNG",
+    "en": "broadcasting club
+    "ja": {
+      "kanji": "放送部",
+      "hiragana": "ほうそうぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20cooking.PNG",
+    "en": "cooking club
+    "ja": {
+      "kanji": "料理部",
+      "hiragana": "りょうりぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20newspaper.PNG",
+    "en": "newspaper club
+    "ja": {
+      "kanji": "新聞部",
+      "hiragana": "しんぶんぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20photography.PNG",
+    "en": "photography club"
+    "ja": {
+      "kanji": "写真部",
+      "hiragana": "しゃしんぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20brass.PNG",
+    "en": "brass band"
+    "ja": {
+      "kanji": "金管部",
+      "hiragana": "きんかんぶ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/31%20club%20chorus.PNG",
+    "en": "chorus",
+    "ja": {
+      "kanji": "合唱部",
+      "hiragana": "がっしょうぶ"
+    }
+  }
+]
