@@ -1,0 +1,115 @@
+[
+  {
+    "image": "https://1.bp.blogspot.com/-mSpdEwlXRr8/UZYk3cgOWXI/AAAAAAAATHU/_HssaKd_e54/s800/camp_friends.png",
+    "en": "camping",
+    "ja": {
+      "kanji": "キャンプすること",
+      "hiragana": "きゃんぷすること"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-oM1U8qxV7Ko/WWRUaxRR3EI/AAAAAAABFbA/yehZLMGaF4QVQTtyTQ5uZfOF9flf1VszgCLcBGAs/s800/taiwan_ebi_tsuri.png",
+    "en": "fishing",
+    "ja": {
+      "kanji": "釣りすること",
+      "hiragana": "つりすること"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-AmMTU5Pn5kA/UYurZbCOmMI/AAAAAAAARzY/m7aOG8IBifw/s800/kouyou_family.png",
+    "en": "hiking",
+    "ja": {
+      "kanji": "ハイキングすること",
+      "hiragana": "はいきんぐすること"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-9wNqT55EpBQ/XaKa3XzaPgI/AAAAAAABVjg/LRr_JdIn_QIy2g-8hVeW7zq924U-e8L-wCNcBGAsYHQ/s1600/family_shopping_bag_paper.png",
+    "en": "shopping",
+    "ja": 
+      {
+        "kanji": "買い物すること",
+        "hiragana": "かいものすること"
+      }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-OB5ObpKfFvI/Uj_20gmniRI/AAAAAAAAYCY/juQlUj9_qDk/s800/dokusyo_aki_man.png",
+    "en": "reading",
+    "ja": {
+      "kanji": "読書すること",
+      "hiragana": "とくしょすること"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-4R-uN-tbWH0/V0zPde6BtXI/AAAAAAAA7DQ/RT4RRPbEpjw525aug9BIn-nH7NJyovIggCLcB/s800/ninja_hashiru.png",
+    "en": "running",
+    "ja": {
+      "kanji": "走ること",
+      "hiragana": "はしること"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-Nm-KNPuvdwI/V4whVRnYipI/AAAAAAAA8WM/taNOI--zRhAIZVDDNfNtBcsnDjWjyVZTwCLcB/s800/sport_jogging_woman.png",
+    "en": "jogging",
+    "ja": {
+      "kanji": "ジョギングすること",
+      "hiragana": "じょぎんぐすること"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-i3IYGbeLh8k/VHxqW4CIOhI/AAAAAAAApWw/IykEeCzailM/s800/takoage.png",
+    "en": "kite flying",
+    "ja": {
+      "kanji": "凧揚げすること",
+      "hiragana": "たこあげすること"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-c7Jf2E_17fY/U6QuJrGdupI/AAAAAAAAhoQ/h_B_lOWI2_c/s800/omocha_koma.png",
+    "en": "top spinning",
+    "ja": {
+      "kanji": "駒回すこと",
+      "hiragana": "こままわすこと"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-cXryTthTVMM/UW4WF1a0PvI/AAAAAAAAQqM/_MXz50Q2T9g/s1600/card_royalstraightflush.png",
+    "en": "cards",
+    "ja": {
+      "kanji": "カード",
+      "hiragana": "カード"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-R9fygJI7KIQ/Uab3zOD7QYI/AAAAAAAAUVM/9yTg0fPAsYo/s800/janken_boys.png",
+    "en": "rock, paper, scissors",
+    "ja": {
+      "kanji": "じゃんけんすること",
+      "hiragana": "じゃんけんすること"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-O_ABTo-7aVI/U4008XlhDhI/AAAAAAAAg64/0ChaRMRD8xc/s800/asobi_onigokko.png",
+    "en": "tag",
+    "ja": {
+      "kanji": "鬼ごっこ",
+      "hiragana": "おにごっこ"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-Owcv-w61ZIE/XS2l8u58-PI/AAAAAAABToo/5I5aeeKC86IzwWhzLJ25sjXWFKslHDLYACLcBGAs/s800/taiiku_nawatobi_girl.png",
+    "en": "jump rope",
+    "ja": {
+      "kanji": "縄跳び",
+      "hiragana": "なわとび"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-874agApTDOw/XWS5TxIHPHI/AAAAAAABUQk/N2emcWmQd74ojdmIVAPXd21BlP8R_yLygCLcBGAs/s1600/bicycle_ichirinsya_boy.png",
+    "en": "unicycle",
+    "ja": {
+      "kanji": "一輪車",
+      "hiragana": "いちりんしゃ"
+    }
+  }
+]
