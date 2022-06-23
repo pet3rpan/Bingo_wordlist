@@ -1,0 +1,107 @@
+[
+  {
+    "image": "https://2.bp.blogspot.com/-J2P-aMzpkkA/W-0g5_gPP6I/AAAAAAABQNg/5YN7wsiWx9gN2lhavJiIrYIMKl7ZbYVoACLcBGAs/s800/koujou_kengaku.png",
+    "en": "field trip",
+    "ja": {
+      "kanji": "社会見学",
+      "hiragana": "しゃかいけんがく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-kDAWFADJuDE/WTX0Pes1RQI/AAAAAAABEmk/4LfRlJwPiCAfdgF1k3mLr3DqO5FrGfaXQCLcB/s800/syugakuryokou_group_kids.png",
+    "en": "school trip",
+    "ja": {
+      "kanji": "修学旅行",
+      "hiragana": "しゅうがくりょこう"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-YHvTM4EYhkA/UZYk-n42ioI/AAAAAAAATIo/4yNDVAgl4-s/s800/gassyou_all.png",
+    "en": "chorus contest",
+    "ja": {
+      "kanji": "合唱コンクール",
+      "hiragana": "がっしょうこんくーる"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-7eWl_4TVJhc/Viio6UNpGzI/AAAAAAAAzrY/df6-9eIuHKk/s800/engeki.png",
+    "en": "drama festival",
+    "ja": 
+      {
+        "kanji": "演劇祭",
+        "hiragana": "えんげきさい"
+      }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-D4uZhLxbb2E/U52JNi0OnFI/AAAAAAAAhcE/7OzVY2Nea8s/s800/suisougaku.png",
+    "en": "music festival",
+    "ja": {
+      "kanji": "音楽祭",
+      "hiragana": "おんがくさい"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-YHntkqdenjc/VoX5e_9Q_FI/AAAAAAAA2WA/y7K0XNwvZFY/s800/school_bunkasai.png",
+    "en": "school festival",
+    "ja": {
+      "kanji": "文化祭",
+      "hiragana": "ぶんかさい"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-Cw470YqI73g/W3abbeV9F8I/AAAAAAABOBU/rxB1zjfngrgQOM5OmS5SnHFGYYVFHQUDQCLcBGAs/s800/kusamushiri_group_people.png",
+    "en": "volunteer day",
+    "ja": {
+      "kanji": "ボランティア　ディー",
+      "hiragana": "ぼらんてぃあ　でぃー"
+    }
+  },
+  {
+    "image": "https://3.bp.blogspot.com/-NeJJyyh-zY0/VoX5lK7KY2I/AAAAAAAA2XA/L8cyR-9e0JY/s800/school_undoukai.png",
+    "en": "sports day",
+    "ja": {
+      "kanji": "運動会",
+      "hiragana": "うんどうかい"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-RQW3MaA3bzU/UZYlMrjaOmI/AAAAAAAATLE/vprcIs5lJPg/s800/suiei_top3.png",
+    "en": "swminning meet",
+    "ja": {
+      "kanji": "水泳大会",
+      "hiragana": "すいえいたいかい"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-KqbpxiHYotE/Ur1GVhbE5QI/AAAAAAAAcb4/-ySccECk6nA/s800/syoukakunren.png",
+    "en": "fire drill",
+    "ja": {
+      "kanji": "火災訓練",
+      "hiragana": "かさいくんれん"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-9uKmkhpzZwQ/V7kvNIzMSnI/AAAAAAAA9H8/I3NoEvxBcAUdoIZKNGlkT5AHsFsZVvElQCLcB/s800/syukudai_natsuyasumi_boy_aseru.png",
+    "en": "summer vacation",
+    "ja": {
+      "kanji": "夏休み",
+      "hiragana": "なつやすみ"
+    }
+  },
+  {
+    "image": "https://2.bp.blogspot.com/-xsOlcjRc2oI/Ub5Z12xERPI/AAAAAAAAU1Y/RJtCsqStNJc/s800/nyugaku_girl.png",
+    "en": "entrance ceremony",
+    "ja": {
+      "kanji": "入学式",
+      "hiragana": "にゅうがくしき"
+    }
+  },
+  {
+    "image": "https://4.bp.blogspot.com/-miFSAjD4mU8/UZRV_lwjYFI/AAAAAAAAStI/5kMz8-9fU1E/s800/sotsugyo_syougakusei.png",
+    "en": "graduation ceremony",
+    "ja": {
+      "kanji": "卒業式",
+      "hiragana": "そつぎょうしき"
+    }
+  }
+]
