@@ -1,0 +1,88 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20big.PNG",
+    "en": "big",
+    "ja": {
+      "kanji": "大きい",
+      "hiragana": "おおきい"
+    }
+  },
+   {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20small.PNG",
+    "en": "small",
+    "ja": {
+      "kanji": "小さい",
+      "hiragana": "ちいさい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20long.PNG",
+    "en": "long",
+    "ja": {
+      "kanji": "長い",
+      "hiragana": "ながい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20short.PNG",
+    "en": "short",
+    "ja": {
+      "kanji": "短い",
+      "hiragana": "みじかい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20new.PNG",
+    "en": "new",
+    "ja": {
+      "kanji": "新しい",
+      "hiragana": "あたらしい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20old.PNG",
+    "en": "old",
+    "ja": {
+      "kanji": "古い",
+      "hiragana": "ふるい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20easy.PNG",
+    "en": "easy",
+    "ja": {
+      "kanji": "簡単",
+      "hiragana": "かんたん"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20difficult.PNG",
+    "en": "difficult",
+    "ja": {
+      "kanji": "難しい",
+      "hiragana": "むずかしい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20same.PNG",
+    "en": "same",
+    "ja": {
+      "kanji": "同じ",
+      "hiragana": "おなじ"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20different.PNG",
+    "en": "different",
+    "ja": {
+      "kanji": "違う",
+      "hiragana": "ちがう"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20fast.PNG",
+    "en": "fast",
+    "ja": {
+      "kanji": "速い",
+      "hiragana": "はやい"
+    }
+  },  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj2%20slow.PNG",
+    "en": "slow",
+    "ja": {
+      "kanji": "遅い",
+      "hiragana": "おそい"
+    }
+  }
+]
