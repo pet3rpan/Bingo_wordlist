@@ -1,0 +1,123 @@
+[
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20good.PNG",
+    "en": "good",
+    "ja": {
+      "kanji": "いい",
+      "hiragana": "いい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20great.PNG",
+    "en": "great",
+    "ja": {
+      "kanji": "とてもいい",
+      "hiragana": "とてもいい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20nice.PNG",
+    "en": "nice",
+    "ja": {
+      "kanji": "ナイス（親切）",
+      "hiragana": "ないす（しんせつ）"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20fantastic.PNG",
+    "en": "fantastic",
+    "ja": 
+      {
+        "kanji": "すばらしい",
+        "hiragana": "すばらしい"
+      }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20wonderful.PNG",
+    "en": "wonderful",
+    "ja": {
+      "kanji": "素敵",
+      "hiragana": "すてき"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20beautiful.PNG",
+    "en": "beautiful",
+    "ja": {
+      "kanji": "美しい",
+      "hiragana": "うつくしい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20cool.PNG",
+    "en": "cool",
+    "ja": {
+      "kanji": "かっこいい",
+      "hiragana": "かっこいい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20cute.PNG",
+    "en": "cute",
+    "ja": {
+      "kanji": "かわいい",
+      "hiragana": "かわいい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20favorite.PNG",
+    "en": "favorite",
+    "ja": {
+      "kanji": "お気に入り",
+      "hiragana": "おきにいり"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20interesting.PNG",
+    "en": "interesting",
+    "ja": {
+      "kanji": "興味深い",
+      "hiragana": "きょうみぶかい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20exciting.PNG",
+    "en": "exciting",
+    "ja": {
+      "kanji": "ワクワクする",
+      "hiragana": "わくわくする"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20famous.PNG",
+    "en": "famous",
+    "ja": {
+      "kanji": "有名",
+      "hiragana": "ゆうめい"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20popular.PNG",
+    "en": "popular",
+    "ja": {
+      "kanji": "人気",
+      "hiragana": "にんき"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20international.PNG",
+    "en": "international",
+    "ja": {
+      "kanji": "国際的",
+      "hiragana": "こくさいてき"
+    }
+  },
+  {
+    "image": "https://raw.githubusercontent.com/pet3rpan/media/main/PDimage/29%20adj1%20fun.PNG",
+    "en": "fun",
+    "ja": {
+      "kanji": "楽しい",
+      "hiragana": "たのしい"
+    }
+  }
+]
