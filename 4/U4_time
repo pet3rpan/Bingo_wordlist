@@ -1,0 +1,82 @@
+[
+  {
+    "image": "https://3.bp.blogspot.com/-n7cwMZVJEcA/UnIEDGPJv0I/AAAAAAAAZ8s/4jY69Ak6z0w/s800/bed_boy_wake.png",
+    "en": "wake-up",
+    "ja": {
+      "kanji": "起きる",
+      "hiragana": "おきる"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-X-BI6Tyo7wI/UgSMDkqXnQI/AAAAAAAAW7I/JsP25PlFNPo/s800/food_medamayaki.png",
+    "en": "breakfast",
+    "ja": {
+      "kanji": "朝食",
+      "hiragana": "ちょうしょく"
+    }
+  },
+  {
+    "image": "https://1.bp.blogspot.com/-rLpV2AE18-Y/VUIJklrxvsI/AAAAAAAAtWQ/QuDiHxdPQdc/s800/school_class.png",
+    "en": "study",
+    "ja": {
+      "kanji": "勉強",
+      "hiragana": "べんきょう"
+    }
+  },  
+  {
+    "image": "https://4.bp.blogspot.com/-FoDpk3Zkii8/V2ubwfhOeSI/AAAAAAAA7rw/42VcWGp2-x86E1sqqZfvh1Pomc1IO_pgACLcB/s800/food_ramen_iekei.png",
+    "en": "lunch",
+    "ja": {
+      "kanji": "昼食",
+      "hiragana": "ちゅうしょく"
+    }
+  },
+    {
+    "image": "https://3.bp.blogspot.com/-wigEyJBUBS4/UgSMLVT1qRI/AAAAAAAAW98/wU36c8TpStk/s800/sweets_donut.png",
+    "en": "snack",
+    "ja": {
+      "kanji": "おかし",
+      "hiragana": ""
+    }
+  },   
+  {
+    "image": "https://4.bp.blogspot.com/-rI83qvbud8Y/VMIt-iC4GkI/AAAAAAAAq1I/eYlSCCjzf2o/s800/teisyoku_haizen.png",
+    "en": "dinner",
+    "ja": {
+      "kanji": "夕食",
+      "hiragana": "ゆうしょく"
+    }
+  },    
+  {
+    "image": "https://4.bp.blogspot.com/-HGB-tsWvCKM/V7kvOYtkrbI/AAAAAAAA9IA/A3hbQW49iIYcvWEcBsYXSAbGX4RJ316QwCLcB/s800/syukudai_natsuyasumi_girl.png",
+    "en": "homework",
+    "ja": {
+      "kanji": "宿題",
+      "hiragana": "しゅくだい"
+    }
+  },    
+    {
+    "image": "https://2.bp.blogspot.com/-Bp8DQeoDZPI/Uab32GtmxOI/AAAAAAAAUWc/4GErKi0MIWU/s800/ofuro.png",
+    "en": "bath",
+    "ja": {
+      "kanji": "風呂",
+      "hiragana": "ふろ"
+    }
+  },  
+    {
+    "image": "https://3.bp.blogspot.com/-3WS1BuFqy6o/UnXnLb0VbwI/AAAAAAAAaJY/sLO7kCy6I8I/s800/kagu_bed.png",
+    "en": "bed",
+    "ja": {
+      "kanji": "ベッド",
+      "hiragana": "べっど"
+    }
+  }, 
+    {
+    "image": "https://1.bp.blogspot.com/-YCAmvfTH9Hk/WsiSDNo6r0I/AAAAAAABLJ8/Y0g51jrxU78jcSSNaNbteYUqeu8MDfoqwCLcBGAs/s800/sleep_yume_meisekimu.png",
+    "en": "dream",
+    "ja": {
+      "kanji": "夢",
+      "hiragana": "ゆめ"
+    }
+  }
+]
